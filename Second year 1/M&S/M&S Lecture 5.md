@@ -1,4 +1,5 @@
 #M/S  References: [[Lecture5.pdf]]
+Previous lesson: [[M&S lecture 4]] 
 # Continue: Waiting Lines and Queuing Theory
 # Multichannel Queuing Model with Poisson Arrivals and Exponential Service Times $(M/M/m)$
 ### Assumptions of the model:
@@ -27,3 +28,6 @@ $$\Large W_q = W - \frac{m\rho}{\lambda} = W - \frac{1}{\mu} = \frac{L_q}{\lambd
 6. $\text{Utilization ratio}$
 $$\Large \rho = \frac{\lambda}{m\mu}$$
 $\small ^{*}\text{equations from single-channeled models are inapplicable here}$
+
+
+Next lesson: [[M&S lecture 6]]

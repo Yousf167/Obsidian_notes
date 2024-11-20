@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second year 1/Statistics/Statistics lecture 4.md",
+                "file": "Second year 1/PL-2/PL-2 Lecture 3, 4.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statistics lecture 4"
+              "title": "PL-2 Lecture 3, 4"
             }
           }
         ]
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Second year 1/Statistics/Statistics lecture 4.md",
+            "file": "Second year 1/PL-2/PL-2 Lecture 3, 4.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,6 +149,8 @@
   },
   "active": "cfbdb6c7e2b85f48",
   "lastOpenFiles": [
+    "Second year 1/DB1/Lectures/4-ERD--Data-Model.pdf",
+    "Second year 1/Statistics/Statistics lecture 4.md",
     "Second year 1/PL-2/Java - How to Program 10th Ed - Early Objects Version - Deitel.pdf",
     "Second year 1/PL-2/images/Screenshot 2024-11-18 090434.png",
     "Second year 1/PL-2/PL-2 Lecture 3, 4.md",
@@ -166,8 +168,6 @@
     "Second year 1/SW-1/PDFs/Software Engineering - Lecture 4 - System Models.pdf",
     "Second year 1/SW-1/Books",
     "Second year 1/SW-1/Books/Object-oriented-Software-Engineering-3rd-Edition.pdf",
-    "Second year 1/DB1/5-ER_Mapping.pdf",
-    "Second year 1/DB1/6-Basic-SQL.pdf",
     "Second year 1/M&S/Modelling and simulation.md",
     "Second year 1/M&S/M&S lecture 4.md",
     "Second year 1/M&S/M&S Lecture 1.md",

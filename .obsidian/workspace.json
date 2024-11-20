@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d12bdbf2debc66cf",
+        "id": "1e4a6ddb54d1bb8c",
         "type": "tabs",
         "children": [
           {
-            "id": "293408c779fdd9f9",
+            "id": "d4f5128191f442a8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "Second year 1/DB1/Sections/DB1_Section4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DB1_Section4"
             }
           }
         ]
@@ -69,12 +71,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 626
+    "width": 293
   },
   "right": {
     "id": "141f6bcb20b1ed54",
@@ -159,25 +160,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c47397dab6abae6",
+  "active": "d4f5128191f442a8",
   "lastOpenFiles": [
+    "Second year 1/DB1/Sections/DB1_Section3.pdf",
+    "Second year 1/DB1/Sections/DB1_Section4.pdf",
+    "Second year 1/DB1/Sections/DB1_Section2.pdf",
+    "Second year 1/DB1/Sections/DB1_Section1.pdf",
+    "Second year 1/M&S/M&S lecture 6.md",
+    "Second year 1/M&S/images/Screenshot 2024-11-20 134357.png",
+    "Second year 1/M&S/images/Screenshot 2024-11-20 134234.png",
+    "Second year 1/M&S/images/Screenshot 2024-11-20 133633.png",
+    "Second year 1/M&S/images/Screenshot 2024-11-20 133443.png",
+    "Second year 1/M&S/images/Screenshot 2024-11-20 133246.png",
+    "Second year 1/M&S/images/Screenshot 2024-11-20 132807.png",
+    "Second year 1/M&S/M&S Lecture 5.md",
+    "Second year 1/M&S/M&S lecture 4.md",
+    "Second year 1/M&S/M&S lecture 3.md",
+    "Second year 1/M&S/M&S lecture 2.md",
+    "Second year 1/M&S/Lectures/Lecture5.pdf",
+    "Second year 1/M&S/Lectures/Lecture4.pdf",
+    "Second year 1/M&S/Lectures/Lecture3.pdf",
+    "Second year 1/M&S/Lectures/Lecture2.pdf",
+    "Second year 1/M&S/Lectures/Lecture1.pdf",
+    "Second year 1/M&S/Lectures/Lecture/Lecture4.pdf",
+    "Second year 1/M&S/Lectures/Lecture/Lecture2.pdf",
     "Second year 1/DB1/Lectures/Database-1.md",
-    "Second year 1/DB1/Lectures/7-Normalization.pdf",
     "Second year 1/Statistics/Statistics lecture 4.md",
     "Second year 1/Statistics/Statistics lecture 3.md",
     "Second year 1/Statistics/Statistics lecture 1,2.md",
     "Second year 1/Statistics/Statistics.md",
     "Second year 1/M&S/Modelling and simulation.md",
-    "undergradmath.pdf",
-    "latexsheet-a4.pdf",
-    "Second year 1/SW-1/PDFs/Software Engineering - Lecture 7 - Sequence Diagrams.pdf",
-    "Second year 1/SW-1/PDFs/Software Engineering - Lecture 5 - Class Object Diagrams.pdf",
     "Second year 1/PL-2/PL Project.canvas",
     "Second year 1/PL-2/PL-2 Lecture 3, 4.md",
-    "Second year 1/M&S/M&S Lecture 5.md",
-    "Second year 1/M&S/M&S lecture 4.md",
-    "Second year 1/M&S/M&S lecture 3.md",
-    "Second year 1/M&S/M&S lecture 2.md",
     "Second year 1/M&S/M&S Lecture 1.md",
     "Second year 1/SW-1/Notes/SW Lecture 3.md",
     "Second year 1/SW-1/Notes/SW Lecture 2.md",
@@ -186,24 +200,15 @@
     "Second year 1/Second year sem.1.md",
     "Second year 1/Creative Thinking/Creative thinking.md",
     "Second year 1/SW-1/Notes/SWE lecture 5.md",
-    "Second year 1/PL-2/PDFs/CS213 - Programming Language 2- Lecture 4 –  OOP.pdf",
-    "Second year 1/Statistics/images",
     "Second year 1/Statistics/CDF, PDF, PMF.canvas",
     "Second year 1/Statistics/images/CDF, PDF, PMF.png",
     "2024-11-18.md",
-    "Second year 1/Statistics/Random Variables and Probability Distributions.pdf",
-    "Second year 1/Statistics/Random Variables and Probability Distributions.pdf.crdownload",
     "Second year 1/Statistics/images/Screenshot 2024-10-14 174602.png",
     "Second year 1/Statistics/images/Screenshot 2024-10-14 182156.png",
-    "Second year 1/Statistics/solved problems - probability.pdf",
     "Second year 1/PL-2/PL-2 Lecture 0.md",
     "Second year 1/PL-2/PL-2.md",
     "Second year 1/PL-2/images/PL project.png",
-    "Second year 1/PL-2/images/Screenshot 2024-11-18 090434.png",
-    "Second year 1/PL-2/images/Screenshot 2024-11-18 085837.png",
     "Second year 1/PL-2/PL-2 Lecture 2.md",
-    "Second year 1/SW-1/Notes/SWE lecture 4.md",
-    "Second year 1/PL-2/PL-2 Lecture 1.md",
-    "Second year 1/SW-1/images/Screenshot 2024-11-12 145918.png"
+    "Second year 1/SW-1/Notes/SWE lecture 4.md"
   ]
 }

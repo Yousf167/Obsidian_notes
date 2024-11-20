@@ -1,4 +1,5 @@
 #M/S 
+Previous lesson: [[M&S lecture 2]] 
 # Simulation and Inventory Analysis
 * We have seen deterministic inventory models. 
 * In many real-world inventory situations, demand and lead time are variables.

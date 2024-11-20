@@ -11,12 +11,14 @@
             "id": "cfbdb6c7e2b85f48",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Second year 1/PL-2/Java - How to Program 10th Ed - Early Objects Version - Deitel.pdf"
+                "file": "Second year 1/Statistics/Statistics lecture 4.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Java - How to Program 10th Ed - Early Objects Version - Deitel"
+              "icon": "lucide-file",
+              "title": "Statistics lecture 4"
             }
           }
         ]
@@ -93,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Second year 1/PL-2/Java - How to Program 10th Ed - Early Objects Version - Deitel.pdf",
+            "file": "Second year 1/Statistics/Statistics lecture 4.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,9 +149,12 @@
   },
   "active": "cfbdb6c7e2b85f48",
   "lastOpenFiles": [
+    "Second year 1/PL-2/Java - How to Program 10th Ed - Early Objects Version - Deitel.pdf",
+    "Second year 1/PL-2/images/Screenshot 2024-11-18 090434.png",
+    "Second year 1/PL-2/PL-2 Lecture 3, 4.md",
+    "Second year 1/PL-2/images/Screenshot 2024-11-18 085837.png",
     "Second year 1/PL-2/PDFs/CS213 - Programming Language 2- Lecture 4 –  OOP.pdf",
     "Second year 1/PL-2/PDFs/CS213 - Programming Language 2- Lecture 3–  OOP Part 1.pdf",
-    "Second year 1/PL-2/PL-2 Lecture 3, 4.md",
     "Second year 1/PL-2/PDFs/CS213 - Programming Language 2- Lecture 3–  OOP.pdf",
     "Second year 1/SW-1/Notes/SWE lecture 5.md",
     "Second year 1/SW-1/PDFs/Software Engineering - Lecture 5 - Class Object Diagrams.pdf",
@@ -166,7 +171,6 @@
     "Second year 1/M&S/Modelling and simulation.md",
     "Second year 1/M&S/M&S lecture 4.md",
     "Second year 1/M&S/M&S Lecture 1.md",
-    "Second year 1/M&S/Lecture5.pdf",
     "Second year 1/PL-2/PL-2 Lecture 0.md",
     "Second year 1/PL-2/PL-2 Lecture 1.md",
     "Second year 1/PL-2/PL-2 Lecture 2.md",

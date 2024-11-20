@@ -1,4 +1,5 @@
 #M/S 
+Previous lesson: [[M&S lecture 3]] 
 # Waiting Lines and Queueing Theory
 Queuing theory, the study of waiting lines, is a widely used quantitative analysis technique relevant to various real-life situations, such as grocery shopping or airplane takeoffs. It involves three main components: _arrivals_, _service facilities_, and _the waiting line itself_. This chapter explores how analytical models can help managers assess the cost and effectiveness of service systems. It covers waiting line costs, characteristics, and mathematical assumptions for developing queuing models. Additionally, it provides equations for calculating service system performance and demonstrates the use of queuing tables and computer programs to simplify computations.
 
