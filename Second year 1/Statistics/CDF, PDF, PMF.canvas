@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"e440b586f405ed31","type":"text","text":"# CDF","x":-150,"y":-15,"width":250,"height":60},
+		{"id":"df22eacc6c82609e","type":"text","text":"$\\LARGE \\int$","x":220,"y":-15,"width":60,"height":60},
+		{"id":"26e026e83187bbb8","type":"text","text":"# PDF","x":360,"y":-230,"width":250,"height":60},
+		{"id":"6a1be2da2f8e1e72","x":100,"y":-230,"width":73,"height":60,"type":"text","text":"$\\LARGE \\frac{d}{dx}$"},
+		{"id":"957b40381508da6b","type":"text","text":"$P(X = x) = F(x) - F(x^-)$","x":-560,"y":200,"width":250,"height":60},
+		{"id":"153d501973114e7d","type":"text","text":"# PMF","x":-880,"y":-15,"width":250,"height":60},
+		{"id":"d99b39ffed32aace","x":-540,"y":-30,"width":250,"height":90,"type":"text","text":"Sum up probabilities for all values ≤𝑥"}
+	],
+	"edges":[
+		{"id":"94e75fa814d003d0","fromNode":"26e026e83187bbb8","fromSide":"bottom","toNode":"df22eacc6c82609e","toSide":"right"},
+		{"id":"607a60727528cbe2","fromNode":"df22eacc6c82609e","fromSide":"left","toNode":"e440b586f405ed31","toSide":"right"},
+		{"id":"99c2748859e1c59c","fromNode":"e440b586f405ed31","fromSide":"bottom","toNode":"957b40381508da6b","toSide":"right"},
+		{"id":"4101fed549beda8e","fromNode":"957b40381508da6b","fromSide":"left","toNode":"153d501973114e7d","toSide":"bottom"},
+		{"id":"a7e790b9f896c1e1","fromNode":"e440b586f405ed31","fromSide":"top","toNode":"6a1be2da2f8e1e72","toSide":"left"},
+		{"id":"89be3ab0fbe7c652","fromNode":"6a1be2da2f8e1e72","fromSide":"right","toNode":"26e026e83187bbb8","toSide":"left"},
+		{"id":"ac13cbbd82d94466","fromNode":"153d501973114e7d","fromSide":"right","toNode":"d99b39ffed32aace","toSide":"left"},
+		{"id":"ba33285d4a4b26e9","fromNode":"d99b39ffed32aace","fromSide":"right","toNode":"e440b586f405ed31","toSide":"left"}
+	]
+}

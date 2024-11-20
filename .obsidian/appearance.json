@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Encore",
+  "accentColor": "#d73c3c",
+  "enabledCssSnippets": [
+    "center image",
+    "H1 center"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": false
+}
