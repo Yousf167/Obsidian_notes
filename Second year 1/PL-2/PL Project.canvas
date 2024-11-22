@@ -1,20 +1,32 @@
 {
 	"nodes":[
-		{"id":"99f78f1200dd1127","type":"text","text":"# Person\n* String name\n* String email\n* String password\n* int ID\n* String address","x":-60,"y":-840,"width":250,"height":260},
-		{"id":"6d57d59dd164f46a","type":"text","text":"# Client\n* _Order_ order\n* purchase()\n* report()\n* notify()","x":-60,"y":-480,"width":250,"height":220},
-		{"id":"6b9842d272ee65aa","type":"text","text":"# Supplier\n* _Person_ supplier\n* int[] prodID\n* int[] prodAmount\n* int cost","x":-440,"y":-480,"width":250,"height":220},
-		{"id":"122dc45c5cb458db","type":"text","text":"# Admin\n* _Person_ admin\n* addSupplier()\n* updateSupplier()\n* deleteSupplier()\n* report()\n* addOffer()","x":380,"y":-480,"width":250,"height":282},
-		{"id":"3e5dadc19bc26e94","type":"text","text":"# Product\n* int ID\n* String Name\n* _Supplier_ supplier\n* _Actions_ actions\n* search()\n* notifyExpiry()\n* report()\n* int count","x":-60,"y":260,"width":250,"height":340},
-		{"id":"f42ac90cee914c71","type":"text","text":"# Actions\n* addProd()\n* updateProd()\n* deleteProd()","x":380,"y":40,"width":250,"height":200},
-		{"id":"b15e821f2c8ca79d","type":"text","text":"# Order\n* int[] prodID\n* int[] amount\n* int[] pricePerID\n* totalPrice\n* String clientAddress","x":-60,"y":-140,"width":250,"height":280}
+		{"id":"99f78f1200dd1127","type":"text","text":"# Person\n* String name\n* int ID\n* String email\n* String password\n* String address","x":-59,"y":-1080,"width":250,"height":260},
+		{"id":"6d57d59dd164f46a","type":"text","text":"# Client\n* int count\n* _Order_ orders[]\n* double balance\n* purchase(_Order_ order)\n* notify()","x":-59,"y":-180,"width":250,"height":280},
+		{"id":"c057cb0a8a884113","x":-435,"y":315,"width":250,"height":60,"type":"text","text":"## depends on"},
+		{"id":"7dacc483d25ae23f","x":-470,"y":420,"width":320,"height":170,"type":"text","text":"# ClientReport\n* _Order_ orders[]\n* report(orders[], _Client_ client)"},
+		{"id":"8e30a2638f256072","x":-29,"y":-720,"width":189,"height":80,"type":"text","text":"## inherited by"},
+		{"id":"122dc45c5cb458db","type":"text","text":"# Admin\n* _Actions_ actions\n* int count\n* addSupplier()\n* updateSupplier()\n* deleteSupplier()\n* addOffer()","x":745,"y":-480,"width":250,"height":320},
+		{"id":"f42ac90cee914c71","type":"text","text":"# Actions\n* addProd()\n* updateProd()\n* deleteProd()","x":745,"y":-60,"width":250,"height":200},
+		{"id":"6b9842d272ee65aa","type":"text","text":"# Supplier\n* int[] prodID\n* int[] prodAmount\n* int cost\n* int count","x":-860,"y":-480,"width":250,"height":220},
+		{"id":"2c2ad6960654bc5a","x":140,"y":-550,"width":410,"height":310,"type":"text","text":"# AdminReport\n* _Supplier_ s[]\n* _Client_ c[]\n* _Admin_ a[]\n* adminReport(_Admin_ a)\n* suplierReport(_Supplier_ s)\n* clientReport(_Client_ c)\n* fullReport() //combines the three reports"},
+		{"id":"3e5dadc19bc26e94","type":"text","text":"# Product\n* int ID\n* String Name\n* _Supplier_ supplier\n* search()\n* notifyExpiry()\n* report()\n* int count\n* updateAmount()","x":-860,"y":-160,"width":250,"height":340},
+		{"id":"b15e821f2c8ca79d","type":"text","text":"# Order\n* int[] prodID\n* int[] amount\n* int[] pricePerID\n* totalPrice\n* String clientAddress\n* ?? order date\n* ?? arrival date","x":95,"y":240,"width":250,"height":320},
+		{"id":"b48c86b9a7dbaf66","x":745,"y":240,"width":250,"height":340,"type":"text","text":"# Invoice\n\ngenerating invoices can be created in a class on its own or we could use the already-existing data in _Order_"}
 	],
 	"edges":[
-		{"id":"01e84d4b162da780","fromNode":"99f78f1200dd1127","fromSide":"bottom","toNode":"6d57d59dd164f46a","toSide":"top","label":"inherited by"},
-		{"id":"7d1385750e0202c9","fromNode":"99f78f1200dd1127","fromSide":"bottom","toNode":"6b9842d272ee65aa","toSide":"top"},
-		{"id":"85599e5c13ce9ef3","fromNode":"99f78f1200dd1127","fromSide":"bottom","toNode":"122dc45c5cb458db","toSide":"top"},
 		{"id":"5fad598368b32c33","fromNode":"122dc45c5cb458db","fromSide":"bottom","toNode":"f42ac90cee914c71","toSide":"top","label":"composes"},
-		{"id":"bf2ecea937c7e230","fromNode":"3e5dadc19bc26e94","fromSide":"left","toNode":"6b9842d272ee65aa","toSide":"bottom","label":"composes"},
-		{"id":"76b9aeb2fd5ecd89","fromNode":"3e5dadc19bc26e94","fromSide":"right","toNode":"f42ac90cee914c71","toSide":"left","label":"composes"},
-		{"id":"3c9261f27f609749","fromNode":"6d57d59dd164f46a","fromSide":"bottom","toNode":"b15e821f2c8ca79d","toSide":"top","label":"composes"}
+		{"id":"bf2ecea937c7e230","fromNode":"3e5dadc19bc26e94","fromSide":"top","toNode":"6b9842d272ee65aa","toSide":"bottom","label":"composes"},
+		{"id":"3c9261f27f609749","fromNode":"6d57d59dd164f46a","fromSide":"bottom","toNode":"b15e821f2c8ca79d","toSide":"top","label":"composes"},
+		{"id":"c3427506b522a522","fromNode":"c057cb0a8a884113","fromSide":"right","toNode":"b15e821f2c8ca79d","toSide":"left","label":"depends on"},
+		{"id":"090165765497576e","fromNode":"c057cb0a8a884113","fromSide":"top","toNode":"6d57d59dd164f46a","toSide":"left","label":"depends on"},
+		{"id":"1956aaf207fd0d5d","fromNode":"b48c86b9a7dbaf66","fromSide":"left","toNode":"b15e821f2c8ca79d","toSide":"right","label":"depends on"},
+		{"id":"46d93921f28a9efe","fromNode":"8e30a2638f256072","fromSide":"left","toNode":"6b9842d272ee65aa","toSide":"top"},
+		{"id":"2d58a9cef92caebc","fromNode":"8e30a2638f256072","fromSide":"bottom","toNode":"6d57d59dd164f46a","toSide":"top"},
+		{"id":"e7b679d822dcfc56","fromNode":"8e30a2638f256072","fromSide":"right","toNode":"122dc45c5cb458db","toSide":"top"},
+		{"id":"199aba502cd04025","fromNode":"99f78f1200dd1127","fromSide":"bottom","toNode":"8e30a2638f256072","toSide":"top"},
+		{"id":"3b16746813698306","fromNode":"7dacc483d25ae23f","fromSide":"top","toNode":"c057cb0a8a884113","toSide":"bottom"},
+		{"id":"8e164eb967dad19c","fromNode":"2c2ad6960654bc5a","fromSide":"left","toNode":"6b9842d272ee65aa","toSide":"right","label":"depends on"},
+		{"id":"5e20052fb9cb35f8","fromNode":"2c2ad6960654bc5a","fromSide":"bottom","toNode":"6d57d59dd164f46a","toSide":"right","label":"depends on"},
+		{"id":"87ad182efbc71888","fromNode":"2c2ad6960654bc5a","fromSide":"right","toNode":"122dc45c5cb458db","toSide":"left","label":"depends on"}
 	]
 }
