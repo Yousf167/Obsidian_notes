@@ -1,0 +1,10 @@
+## PDFs:
+1. [[DC_Lec_1.pdf]]
+2. [[DC_Lec_2.pdf]]
+3. [[DC_Lec_3.pdf]]
+4. [[DC_Lec_4.pdf]]
+5. [[DC_Lec_5.pdf]]
+6. [[DC_Lec_6.pdf]]
+7. [[DC_Lec_7.pdf]]
+8. [[DC_Lec_8.pdf]]
+9. [[DC_Lec_9.pdf]]

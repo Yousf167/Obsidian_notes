@@ -1,9 +1,9 @@
 {
-  "encore-settings@@theme-dark": "encore-theme-dark-mercury",
+  "encore-settings@@theme-dark": "encore-theme-dark-materialocean",
   "encore-settings@@colors": "encore-colors-custom",
   "encore-settings@@encore-translucency": false,
   "encore-settings@@encore-translucency-strength": 1,
-  "encore-settings@@encore-translucency-blur-amount": 11,
+  "encore-settings@@encore-translucency-blur-amount": 0,
   "encore-settings@@blur-amount": "encore-blur-less",
   "encore-settings@@encore-disable-grain": true,
   "encore-settings@@encore-mobile-oled-mode": false,
@@ -26,5 +26,8 @@
   "encore-settings@@encore-custom-h6@@dark": "#6BF4FF",
   "encore-settings@@encore-coloured-tooltip": true,
   "encore-settings@@encore-bright-accent": true,
-  "encore-settings@@encore-translucency-image": "url(\"https://media.istockphoto.com/id/2128484831/photo/modern-city-traffic-at-night.webp?a=1&b=1&s=612x612&w=0&k=20&c=wyvvBZu9nt4XG9p7p4_OvLAMd6RBZRxoM5DXDUxyjok=\")"
+  "encore-settings@@encore-translucency-image": "url(\"https://media.istockphoto.com/id/2128484831/photo/modern-city-traffic-at-night.webp?a=1&b=1&s=612x612&w=0&k=20&c=wyvvBZu9nt4XG9p7p4_OvLAMd6RBZRxoM5DXDUxyjok=\")",
+  "encore-settings@@encore-translucency-background": "encore-bg-prismatic",
+  "encore-settings@@encore-disable-logo-on-hr": true,
+  "encore-settings@@encore-fancy-headers": false
 }

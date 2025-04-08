@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f604035ae40411fe",
+        "id": "975add3fd93f72e9",
         "type": "tabs",
         "children": [
           {
-            "id": "cfbdb6c7e2b85f48",
+            "id": "f071f7aff73367ad",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Second year 1/DB1/Fundamentals_of_Database_Systems,_6th_Edition.pdf"
+                "file": "Second year 1/SW-1/final SWE-1 project/Call sequence diagram.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Fundamentals_of_Database_Systems,_6th_Edition"
+              "title": "Call sequence diagram"
+            }
+          },
+          {
+            "id": "f845e51b70df5da1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Y2S2/OR/Lectures/Lecture 04, Chapter 3, Decision Trees.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 04, Chapter 3, Decision Trees"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,7 +47,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -46,7 +60,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Class diagram",
+            "query": "Polym",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -81,7 +95,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "0826dbb3d5ff6e4a",
@@ -126,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Second year 1/DB1/Fundamentals_of_Database_Systems,_6th_Edition.pdf"
+            "file": "Second year 1/PL-2/PDFs/CS213 - Programming Language 2- Lecture 6 –  IO Files.pdf"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -145,45 +159,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfbdb6c7e2b85f48",
+  "active": "f845e51b70df5da1",
   "lastOpenFiles": [
-    "Second year 1/PL-2/PL-2 Lecture 3, 4.md",
-    "Second year 1/DB1/Fundamentals_of_Database_Systems,_6th_Edition.pdf",
-    "Second year 1/SW-1/Notes/SWE lecture 5.md",
-    "Second year 1/SW-1/Books/Software-Engineering-9th-Edition-by-Ian-Sommerville.pdf",
-    "Second year 1/SW-1/Books/Object-oriented-Software-Engineering-3rd-Edition.pdf",
-    "Second year 1/PL-2/PL Project.canvas",
-    "Second year 1/DB1/Sections/DB1_Section4.pdf",
-    "Second year 1/PL-2/Java - How to Program 10th Ed - Early Objects Version - Deitel.pdf",
-    "Second year 1/DB1/Sections/DB1_Section3.pdf",
-    "Second year 1/DB1/Sections/DB1_Section2.pdf",
-    "Second year 1/DB1/Sections/DB1_Section1.pdf",
-    "Second year 1/DB1/Lectures/4-ERD--Data-Model.pdf",
+    "Y2S2/Data Comms/Lectures/DC_Lec_4.pdf",
+    "Y2S2/OR/Lectures/Lecture 04, Chapter 3, Decision Trees.pdf",
+    "Y2S2/DSA/Lectures/Ch01-Introduction to Abstract Data Types.pdf",
+    "Y2S2/OS-1/PDFs/ch1.pdf",
+    "Y2S2/Data Comms/Lectures/DC_Lec_1.pdf",
+    "Y2S2/OS-1/OS-1.md",
+    "Y2S1/SW-1/Notes/SWE Lecture 3.md",
+    "Y2S1/SW-1/Notes/SWE Lecture 2.md",
+    "Y2S1/SW-1/Notes/SWE lecture 1.md",
+    "Y2S2/DSA/DSA.md",
+    "Y2S2/Y2S2.md",
+    "Y2S2/Prof Ethics/PE.md",
+    "Y2S2/OR/lecture 1.md",
+    "Y2S2/OR/OR.md",
+    "Second year 1/SW-1/final SWE-1 project/use case.jpg",
+    "Second year 1/SW-1/final SWE-1 project/Use Case Description.pdf",
+    "Second year 1/SW-1/final SWE-1 project/Use case diagram.pdf",
+    "Second year 1/SW-1/final SWE-1 project/User_Stories[1].pdf",
+    "Second year 1/PL-2/PDFs/CS213 - Programming Language 2- Lecture 6 –  IO Files.pdf",
+    "Second year 1/SW-1/final SWE-1 project/class diagram.pdf",
+    "Second year 1/PL-2/PDFs/CS213 - Programming Language 2- Lecture 5 –  Exception Handling.pdf",
     "Second year 1/Statistics/Statistics lecture 4.md",
+    "Second year 1/PL-2/PL-2 Lecture 0.md",
+    "Second year 1/SW-1/final SWE-1 project/Rep system diagram.png",
+    "Second year 1/M&S/M&S Lecture 5.md",
+    "Second year 1/M&S/M&S lecture 6.md",
+    "Second year 1/M&S/M&S lecture 4.md",
+    "Second year 1/M&S/M&S lecture 3.md",
+    "Untitled.canvas",
+    "Second year 1/PL-2/PL-2 Lecture 3, 4.md",
+    "Second year 1/PL-2/PL Project.canvas",
+    "Second year 1/SW-1/Notes/SWE lecture 5.md",
+    "Second year 1/SW-1/Notes/SWE lecture 6.md",
+    "Second year 1/PL-2/PL-2.md",
+    "Second year 1/Second year sem.1.md",
     "Second year 1/PL-2/images/Screenshot 2024-11-18 090434.png",
     "Second year 1/PL-2/images/Screenshot 2024-11-18 085837.png",
-    "Second year 1/PL-2/PDFs/CS213 - Programming Language 2- Lecture 4 –  OOP.pdf",
     "Second year 1/M&S/M&S lecture 2.md",
-    "Second year 1/M&S/M&S Lecture 5.md",
-    "Second year 1/M&S/M&S lecture 3.md",
     "Second year 1/M&S/Modelling and simulation.md",
-    "Second year 1/M&S/M&S lecture 4.md",
     "Second year 1/M&S/M&S Lecture 1.md",
-    "Second year 1/PL-2/PL-2 Lecture 0.md",
     "Second year 1/PL-2/PL-2 Lecture 1.md",
     "Second year 1/PL-2/PL-2 Lecture 2.md",
-    "Second year 1/PL-2/PL-2 Lecture 3.md",
-    "Second year 1/Statistics/Statistics lecture 1,2.md",
-    "Second year 1/SW-1/SW Lecture 2.md",
-    "Second year 1/SW-1/SW lecture 1.md",
-    "Second year 1/Statistics/Screenshot 2024-10-14 174602.png",
-    "Second year 1/Statistics/Statistics lecture 3.md",
-    "Second year 1/SW-1/SW Lecture 1, 2 Part 1.md",
-    "Second year 1/SW-1/SW lecture 0.md",
-    "Second year 1/SW-1/Software Engineering 1.md",
-    "Second year 1/Statistics/Statistics.md",
-    "Second year 1/DB1/3--Relational-Data-Model.md",
-    "Second year 1/SW-1/SWE lecture 3.md",
-    "Second year 1/SW-1/SW Lecture 2 Part 2.md"
+    "Second year 1/Statistics/Screenshot 2024-10-14 174602.png"
   ]
 }
