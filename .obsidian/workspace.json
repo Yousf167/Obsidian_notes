@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y2S2/OR/lecture 2.md",
+                "file": "Y2S2/Fundamentals of Management/Presentation/The Relation Between Employee Motivation and Organizations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 2"
+              "title": "The Relation Between Employee Motivation and Organizations"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346
+    "width": 346,
+    "collapsed": true
   },
   "right": {
     "id": "141f6bcb20b1ed54",
@@ -165,6 +166,11 @@
   },
   "active": "b8bc14fe86383f88",
   "lastOpenFiles": [
+    "Y2S2/Fundamentals of Management/Presentation/IISC_EqualityEquity.webp",
+    "Y2S2/Fundamentals of Management/Presentation/IISC_EqualityEquity.webp.crdownload",
+    "Y2S2/OR/lecture 2.md",
+    "Y2S2/Fundamentals of Management/Presentation/The Relation Between Employee Motivation and Organizations.md",
+    "Y2S2/Fundamentals of Management/Presentation",
     "Y2S2/OR/Lectures/Lecture 02_Chapter 3 (Decision Analysis).pdf",
     "Y2S2/OR/Lectures/Lecture 01-Introduction to Operation research.pdf",
     "Y2S2/Data Comms/Lectures/DC_Lec_4.pdf",
@@ -173,15 +179,11 @@
     "Y2S2/Data Comms/Lectures/DC_Lec_6.pdf",
     "Y2S2/Fundamentals of Management/PDFs/Lec.2 Planning.pdf",
     "Y2S2/Fundamentals of Management/PDFs/Lec.1 Chapter.pdf",
-    "Y2S2/OS-1/PDFs/ch5 2025 modified.pdf",
-    "Y2S2/OS-1/PDFs/deadlock.pdf",
-    "Y2S2/OS-1/PDFs/ch3 2025.pdf",
     "Y2S2/DSA/DSA.md",
     "Y2S2/Fundamentals of Management/FOM.md",
     "Untitled.md",
     "Y2S2/OS-1/OS-1.md",
     "Y2S2/OR/Lecture 3.md",
-    "Y2S2/OR/lecture 2.md",
     "Y2S2/OS-1/Notes/Interrupts and Storage Structures.md",
     "Y2S1/Statistics/Statistics.md",
     "Y2S1/Statistics/Statistics lecture 1,2.md",
@@ -200,7 +202,6 @@
     "Misc/Maven/application.properties or application.yaml.md",
     "helpful link.md",
     "springboot.md",
-    "Y2S1/PL-2/PL-2 Lecture 3, 4.md",
     "Untitled.canvas",
     "Y2S1/SW-1/final SWE-1 project/use case.jpg",
     "Y2S1/PL-2/images/PL Project.png",
