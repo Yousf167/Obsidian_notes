@@ -29,5 +29,6 @@
   "encore-settings@@encore-translucency-image": "url(\"https://media.istockphoto.com/id/2128484831/photo/modern-city-traffic-at-night.webp?a=1&b=1&s=612x612&w=0&k=20&c=wyvvBZu9nt4XG9p7p4_OvLAMd6RBZRxoM5DXDUxyjok=\")",
   "encore-settings@@encore-translucency-background": "encore-bg-prismatic",
   "encore-settings@@encore-disable-logo-on-hr": true,
-  "encore-settings@@encore-fancy-headers": false
+  "encore-settings@@encore-fancy-headers": false,
+  "encore-settings@@theme-light": "encore-theme-light-sterling"
 }

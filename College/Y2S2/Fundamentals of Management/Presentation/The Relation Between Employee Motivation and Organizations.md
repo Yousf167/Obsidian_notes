@@ -10,8 +10,9 @@
 
 ## Points:
 1. What is Motivation?
-2. What is the effect of employee motivation?
-3. Org behavior + motivation. 
-4. Motivation + org performance.
-5. pros and cons of motivation.
+2. extrinsic vs intrinsic motivation
+3. What is the effect of employee motivation?
+4. Org behavior + motivation. 
+5. Motivation + org performance.
 6. Equity Theory
+7. pros and cons of motivation.

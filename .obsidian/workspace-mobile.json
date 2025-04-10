@@ -23,12 +23,14 @@
             "id": "f845e51b70df5da1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Y2S2/OR/Lectures/Lecture 04, Chapter 3, Decision Trees.pdf"
+                "file": "Y2S2/Fundamentals of Management/Presentation/The Relation Between Employee Motivation and Organizations.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture 04, Chapter 3, Decision Trees"
+              "icon": "lucide-file",
+              "title": "The Relation Between Employee Motivation and Organizations"
             }
           }
         ],
@@ -161,8 +163,8 @@
   },
   "active": "f845e51b70df5da1",
   "lastOpenFiles": [
-    "Y2S2/Data Comms/Lectures/DC_Lec_4.pdf",
     "Y2S2/OR/Lectures/Lecture 04, Chapter 3, Decision Trees.pdf",
+    "Y2S2/Data Comms/Lectures/DC_Lec_4.pdf",
     "Y2S2/DSA/Lectures/Ch01-Introduction to Abstract Data Types.pdf",
     "Y2S2/OS-1/PDFs/ch1.pdf",
     "Y2S2/Data Comms/Lectures/DC_Lec_1.pdf",
