@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df2cb16e6d8b766e",
+        "id": "706064d940a2ad2d",
         "type": "tabs",
         "children": [
           {
-            "id": "1dab8ed76ef5e90c",
+            "id": "54bf4c1004ccfbe5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346
+    "width": 346,
+    "collapsed": true
   },
   "right": {
     "id": "141f6bcb20b1ed54",
@@ -164,8 +165,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dab8ed76ef5e90c",
+  "active": "54bf4c1004ccfbe5",
   "lastOpenFiles": [
+    "College/Y2S2/Fundamentals of Management/Presentation/eac5568595c28ee935e7bf052d6e1c24_MD5.jpeg",
+    "College/Y2S2/Fundamentals of Management/Presentation/The Relation Between Employee Motivation and Organizations.md",
+    "College/Y2S2/Fundamentals of Management/Presentation/IISC_EqualityEquity.webp",
+    "extrinsic.md",
+    "[extrinsic.md",
+    "College/Y2S2/Fundamentals of Management/Presentation/Pasted image 20250410151210.png",
+    "Pasted image 20250410150949.png",
+    "College/Y2S2/Fundamentals of Management/Presentation/86229473_2504947999772976_8990087207385563136_n.jpg",
+    "College/Y2S2/Fundamentals of Management/Presentation/WhatsApp Image 2025-04-10 at 15.03.11_cc425416.jpg",
+    "College/Y2S2/Fundamentals of Management/Presentation/WhatsApp Image 2025-04-10 at 15.02.15_1028fbd5.jpg",
     "Competitive Programiming/Competitive Programming.md",
     "Competitive Programiming/Number Theory/Number theory.md",
     "Competitive Programiming/Number Theory/GCD.md",
@@ -178,9 +189,7 @@
     "College",
     "Misc/Misc.md",
     "Competitive Programiming/Number Theory",
-    "College/Y2S2/Fundamentals of Management/Presentation/The Relation Between Employee Motivation and Organizations.md",
     "Competitive Programiming",
-    "College/Y2S2/Fundamentals of Management/Presentation/IISC_EqualityEquity.webp",
     "Y2S2/Fundamentals of Management/Presentation/IISC_EqualityEquity.webp.crdownload",
     "College/Y2S2/OR/lecture 2.md",
     "College/Y2S2/Fundamentals of Management/Presentation",
@@ -200,20 +209,11 @@
     "College/Y2S2/Prof Ethics/PE.md",
     "College/Y2S2/Data Comms/Data Comms.md",
     "College/Y2S2/OR/OR.md",
-    "College/Y2S1/SW-1/Software Engineering 1.md",
-    "College/Y2S2/Y2S2.md",
-    "College/Y2S1/SW-1/Notes/SWE lecture 4.md",
     "Untitled.canvas",
     "College/Y2S1/SW-1/final SWE-1 project/use case.jpg",
     "College/Y2S1/PL-2/images/PL Project.png",
     "College/Y2S1/PL-2/PL Project.canvas",
     "College/Y2S1/M&S/images/Screenshot 2024-11-20 134357.png",
-    "College/Y2S1/M&S/images/Screenshot 2024-11-20 134234.png",
-    "College/Y2S1/M&S/images/Screenshot 2024-11-20 133633.png",
-    "College/Y2S1/M&S/images/Screenshot 2024-11-20 133443.png",
-    "College/Y2S1/M&S/images/Screenshot 2024-11-20 133246.png",
-    "College/Y2S1/M&S/images/Screenshot 2024-11-20 132807.png",
-    "College/Y2S1/Statistics/CDF, PDF, PMF.canvas",
-    "College/Y2S1/Statistics/images/CDF, PDF, PMF.png"
+    "College/Y2S1/Statistics/CDF, PDF, PMF.canvas"
   ]
 }
