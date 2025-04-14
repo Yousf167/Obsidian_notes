@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f071f7aff73367ad",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Second year 1/SW-1/final SWE-1 project/Call sequence diagram.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Call sequence diagram"
-            }
-          },
-          {
             "id": "f845e51b70df5da1",
             "type": "leaf",
             "state": {
@@ -33,8 +21,7 @@
               "title": "The Relation Between Employee Motivation and Organizations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

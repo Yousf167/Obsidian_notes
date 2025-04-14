@@ -108,7 +108,7 @@ $$
 - **Lamé’s Theorem**: The number of steps in the Euclidean algorithm is at most 5 times the number of digits in the smaller number.  
 - **GCD of Fibonacci Numbers**:  
 $$\LARGE
-  \gcd(F_m, F_n) = F_{\gcd(m, n)}
+  \gcd(F_m\ ,\ F_n) = F_{\gcd(m, n)}
 $$
   where $F_n$ is the $n^{th}$ Fibonacci number.  
 
@@ -151,7 +151,7 @@ The **Greatest Common Divisor (GCD)** is one of the most frequently used mathema
 
 ---
 
-## **4. Modular Arithmetic & Inverses**  
+## 4. Modular Arithmetic & Inverses  
 **Problem Type**: Compute $A^{-1} \mod M$ (the modular inverse of $A$).  
 **Key Insight**:  
 - The inverse exists only if $\gcd(A, M) = 1$.  
@@ -164,7 +164,7 @@ The **Greatest Common Divisor (GCD)** is one of the most frequently used mathema
 ---
 
 ## 5. LCM Calculation (GCD-LCM Relationship)  
-**Problem Type**: Compute the Least Common Multiple (LCM) efficiently.  
+**Problem Type**: Compute the Least Common Multiple ([[LCM]]) efficiently.  
 **Formula**:  
 $$\LARGE
 \text{LCM}(A, B) = \frac{|A \times B|}{\gcd(A, B)}
@@ -184,7 +184,7 @@ $$
 **Example**:  
 - Given an array $[8, 12, 6, 4]$, the prefix GCD array is $[8, 4, 2, 2]$.  
 **Use Case**:  
-- Problems where you need to compute GCD over subarrays (e.g., "Find the maximum GCD of any subarray").
+- Problems where you need to compute GCD over sub-arrays (e.g., "Find the maximum GCD of any sub-array").
 
 ---
 
@@ -226,3 +226,15 @@ $$
 - Example: DP where the state tracks the current GCD of selected elements.  
 ### (c) Game Theory (Nim-like Games with GCD Moves)  
 - Example: A game where moves must follow GCD constraints.  
+---
+## Additional Notes
+* For the maximum GCD of a sorted `arr[n]`, the greatest value comes from `max(arr) / 2`.
+* For the minimum GCD of a sorted `arr[n]`, the least value comes from `min(arr)`:
+```cpp
+if(selectedNumber % min(arr) == 0){
+	minGCD = min(arr);
+}
+else(){
+	minGCD = 1;
+}
+```
