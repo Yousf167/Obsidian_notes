@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "College/Y2S2/OR/Lectures/Lecture 08, chapter 6 discount models.pdf"
+                "file": "College/Y2S2/OS-1/PDFs/ch5 2025 modified.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 08, chapter 6 discount models"
+              "title": "ch5 2025 modified"
             }
           }
         ]
@@ -164,8 +164,10 @@
   },
   "active": "29492044a8e30d3f",
   "lastOpenFiles": [
-    "College/Y2S2/OR/OR.md",
+    "College/Y2S2/OS-1/PDFs/ch3 2025.pdf",
+    "College/Y2S2/OS-1/PDFs/ch9 Update l.pdf",
     "College/Y2S2/OR/Lectures/Lecture 08, chapter 6 discount models.pdf",
+    "College/Y2S2/OR/OR.md",
     "College/Y2S2/OR/Lectures/Lecture 09 Chapter 6 (Inventory Control Models).pdf",
     "College/Y2S2/OR/Lectures/Lecture 07_Chapter 6 (Inventory Control Models).pdf",
     "College/Y2S2/OR/Lectures/Lecture 05, Chapter 3, Decision Trees_example.pdf",
@@ -183,7 +185,6 @@
     "College/Y2S2/OR/Lectures/Lecture 02_Chapter 3 (Decision Analysis).pdf",
     "College/Y2S2/OR/Lectures/Lecture 01-Introduction to Operation research.pdf",
     "College/Y2S2/OS-1/OS-1.md",
-    "College/Y2S2/OS-1/PDFs/ch9 Update l.pdf",
     "Competitive Programiming/Bit masks/Bit masking.md",
     "College/Y2S2/Fundamentals of Management/Presentation/eac5568595c28ee935e7bf052d6e1c24_MD5.jpeg",
     "College/Y2S2/Fundamentals of Management/Presentation/WhatsApp Image 2025-04-10 at 15.03.11_cc425416.jpg",
