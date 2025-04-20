@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Y2S2/Fundamentals of Management/Presentation/The Relation Between Employee Motivation and Organizations.md",
+                "file": "College/Y2S2/OS-1/OS-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Relation Between Employee Motivation and Organizations"
+              "title": "OS-1"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346,
-    "collapsed": true
+    "width": 346
   },
   "right": {
     "id": "141f6bcb20b1ed54",
@@ -167,8 +166,11 @@
   },
   "active": "54bf4c1004ccfbe5",
   "lastOpenFiles": [
-    "College/Y2S2/Fundamentals of Management/Presentation/eac5568595c28ee935e7bf052d6e1c24_MD5.jpeg",
+    "College/Y2S2/OS-1/PDFs/ch 1 modified 2025.pdf",
+    "College/Y2S2/OS-1/OS-1.md",
+    "Untitled.canvas",
     "College/Y2S2/Fundamentals of Management/Presentation/The Relation Between Employee Motivation and Organizations.md",
+    "College/Y2S2/Fundamentals of Management/Presentation/eac5568595c28ee935e7bf052d6e1c24_MD5.jpeg",
     "College/Y2S2/Fundamentals of Management/Presentation/IISC_EqualityEquity.webp",
     "extrinsic.md",
     "[extrinsic.md",
@@ -201,7 +203,6 @@
     "College/Y2S2/DSA/DSA.md",
     "College/Y2S2/Fundamentals of Management/FOM.md",
     "Untitled.md",
-    "College/Y2S2/OS-1/OS-1.md",
     "Y2S2/OR/Lecture 3.md",
     "College/Y2S2/OS-1/Notes/Interrupts and Storage Structures.md",
     "College/Y2S1/Statistics/Statistics.md",
@@ -209,7 +210,6 @@
     "College/Y2S2/Prof Ethics/PE.md",
     "College/Y2S2/Data Comms/Data Comms.md",
     "College/Y2S2/OR/OR.md",
-    "Untitled.canvas",
     "College/Y2S1/SW-1/final SWE-1 project/use case.jpg",
     "College/Y2S1/PL-2/images/PL Project.png",
     "College/Y2S1/PL-2/PL Project.canvas",
