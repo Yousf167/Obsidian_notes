@@ -18,11 +18,12 @@ If a number isn’t prime, it’s called **composite** (e.g., 4, 6, 8, 9, 10...)
 
 ---
 ### 🧮 **Prime Factorization**
-- Every integer >1> 1 can be written uniquely as a **product of prime numbers**.
+- Every integer > 1 can be written uniquely as a **product of prime numbers**.
 - This is called the **Fundamental Theorem of Arithmetic**.
 
 Example:  
 $60=22×3×560 = 2^2 \times 3 \times 5$
+
 ---
 ### 🧠 **Famous Prime Concepts**
 
