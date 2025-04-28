@@ -6,6 +6,7 @@
 * $\large 2^x + 2^x = 2^{x+1}$,  $\large 2^x - 1 = \sum_{i = 0}^{x - 1}2^i$
 * $\large \sum_{i=k}^{n}2^i = 2^{n+1} - 2^k$
 * if N & (N - 1) = 0, N is a power of 2 
+* ANDing always decreases a number
 ## Bit-Wise Shift Operator
 * consider a binary number `100110`. When the number is shifted right, the number is essentially divided by 2. Another way to think about it is that when the number is shifted in any direction, the position of the bits is changed, and so is the power of 2. For example:
 ```cpp
