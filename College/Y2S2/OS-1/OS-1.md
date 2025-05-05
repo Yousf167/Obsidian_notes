@@ -7,6 +7,7 @@
 3. [[deadlock.pdf]]
 4. [[ch5 2025 modified.pdf]]
 5. [[ch9 Update l.pdf]]
-
+6. [[ch13 modified.pdf]]
+7. [[ch11 (1).pdf]]
 ## Notes:
 1. [[Interrupts and Storage Structures]]

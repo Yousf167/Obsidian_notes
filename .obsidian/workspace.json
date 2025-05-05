@@ -11,14 +11,12 @@
             "id": "137a16fda074f058",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Misc/Ubuntu/Important Commands.md",
-                "mode": "source",
-                "source": false
+                "file": "College/Y2S2/OS-1/PDFs/ch13 modified.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Important Commands"
+              "icon": "lucide-file-text",
+              "title": "ch13 modified"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b0a3a1538c305c83",
@@ -172,9 +169,14 @@
   },
   "active": "137a16fda074f058",
   "lastOpenFiles": [
+    "College/Y2S2/OS-1/OS-1.md",
+    "College/Y2S2/OS-1/PDFs/ch11 (1).pdf",
+    "College/Y2S2/OS-1/PDFs/ch9 Update l.pdf",
+    "College/Y2S2/OS-1/PDFs/ch13 modified.pdf",
+    "College/Y2S2/OS-1/PDFs/ch5 2025 modified.pdf",
+    "Misc/Ubuntu/Important Commands.md",
     "Misc/Ubuntu/e4768efdc4b463783ef7aeafe549ff35_MD5.pdf",
     "Competitive Programiming/Bit masks/Bit masking.md",
-    "Misc/Ubuntu/Important Commands.md",
     "Misc/Ubuntu",
     "Competitive Programiming/Recursion and Backtracking/How to solve Recursion Problems.md",
     "Competitive Programiming/Recursion and Backtracking/images",
