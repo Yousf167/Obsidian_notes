@@ -11,10 +11,12 @@
             "id": "f845e51b70df5da1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "College/Y2S2/Data Comms/Lectures/DC_Lec_4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DC_Lec_4"
             }
           }
         ]
@@ -125,7 +127,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Second year 1/PL-2/PDFs/CS213 - Programming Language 2- Lecture 6 –  IO Files.pdf"
+            "file": "College/Y2S2/Data Comms/Lectures/DC_Lec_3.pdf",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -146,11 +151,23 @@
   },
   "active": "f845e51b70df5da1",
   "lastOpenFiles": [
-    "Y2S2/OR/Lectures/Lecture 04, Chapter 3, Decision Trees.pdf",
-    "Y2S2/Data Comms/Lectures/DC_Lec_4.pdf",
-    "Y2S2/DSA/Lectures/Ch01-Introduction to Abstract Data Types.pdf",
-    "Y2S2/OS-1/PDFs/ch1.pdf",
-    "Y2S2/Data Comms/Lectures/DC_Lec_1.pdf",
+    "College/Y2S2/OR/OR.md",
+    "College/Y2S2/DSA/Lectures/Ch03-Stacks.pdf",
+    "College/Y2S2/DSA/Lectures/Ch02-Lists.pdf",
+    "College/Y2S2/Data Comms/Lectures/DC_Lec_3.pdf",
+    "College/Y2S2/Data Comms/Lectures/DC_Lec_2.pdf",
+    "College/Y2S2/Data Comms/Lectures/DC_Lec_1.pdf",
+    "College/Y2S2/OS-1/PDFs/ch11 (1).pdf",
+    "College/Y2S2/OS-1/PDFs/deadlock.pdf",
+    "College/Y2S2/OS-1/PDFs/ch5 2025 modified.pdf",
+    "College/Y2S2/OS-1/PDFs/ch3 2025.pdf",
+    "College/Y2S2/OS-1/PDFs/ch 1 modified 2025.pdf",
+    "Competitive Programiming/Competitive Programming.md",
+    "Untitled.canvas",
+    "Competitive Programiming/Bit masks/Bit masking.md",
+    "Competitive Programiming/Number Theory/GCD.md",
+    "Competitive Programiming/Number Theory/LCM.md",
+    "Competitive Programiming/Number Theory/Number theory.md",
     "Y2S2/OS-1/OS-1.md",
     "Y2S1/SW-1/Notes/SWE Lecture 3.md",
     "Y2S1/SW-1/Notes/SWE Lecture 2.md",
@@ -161,12 +178,6 @@
     "Y2S2/OR/lecture 1.md",
     "Y2S2/OR/OR.md",
     "Second year 1/SW-1/final SWE-1 project/use case.jpg",
-    "Second year 1/SW-1/final SWE-1 project/Use Case Description.pdf",
-    "Second year 1/SW-1/final SWE-1 project/Use case diagram.pdf",
-    "Second year 1/SW-1/final SWE-1 project/User_Stories[1].pdf",
-    "Second year 1/PL-2/PDFs/CS213 - Programming Language 2- Lecture 6 –  IO Files.pdf",
-    "Second year 1/SW-1/final SWE-1 project/class diagram.pdf",
-    "Second year 1/PL-2/PDFs/CS213 - Programming Language 2- Lecture 5 –  Exception Handling.pdf",
     "Second year 1/Statistics/Statistics lecture 4.md",
     "Second year 1/PL-2/PL-2 Lecture 0.md",
     "Second year 1/SW-1/final SWE-1 project/Rep system diagram.png",
@@ -174,7 +185,6 @@
     "Second year 1/M&S/M&S lecture 6.md",
     "Second year 1/M&S/M&S lecture 4.md",
     "Second year 1/M&S/M&S lecture 3.md",
-    "Untitled.canvas",
     "Second year 1/PL-2/PL-2 Lecture 3, 4.md",
     "Second year 1/PL-2/PL Project.canvas",
     "Second year 1/SW-1/Notes/SWE lecture 5.md",
@@ -183,11 +193,6 @@
     "Second year 1/Second year sem.1.md",
     "Second year 1/PL-2/images/Screenshot 2024-11-18 090434.png",
     "Second year 1/PL-2/images/Screenshot 2024-11-18 085837.png",
-    "Second year 1/M&S/M&S lecture 2.md",
-    "Second year 1/M&S/Modelling and simulation.md",
-    "Second year 1/M&S/M&S Lecture 1.md",
-    "Second year 1/PL-2/PL-2 Lecture 1.md",
-    "Second year 1/PL-2/PL-2 Lecture 2.md",
     "Second year 1/Statistics/Screenshot 2024-10-14 174602.png"
   ]
 }

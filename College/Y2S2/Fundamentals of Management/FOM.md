@@ -4,3 +4,8 @@
 3. [[Lec.3 Organizing.pdf]]
 4. [[Lec.4 Leadership.pdf]]
 5. [[Lec.5 Controlling.pdf]]
+6. [[Entrepreneurship 1.pdf]]
+7. [[Entrepreneurship 2.pdf]]
+8. [[Entrepreneurship 3.pdf]]
+9. [[Entrepreneurship 4.pdf]]
+10. [[Empowerment.pdf]]

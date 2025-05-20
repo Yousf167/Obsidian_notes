@@ -1,6 +1,0 @@
-{
-	"nodes":[
-		{"id":"3abb1f1bc7ccfb1e","x":-380,"y":-340,"width":562,"height":1140,"type":"text","text":"# GUI\nEnter the number of processes: __N__\nEnter the Arrival time of each process: AT1 AT2 AT3...ATn\nEnter the Burst time of each process: BT1 BT2 BT3....BTn\n\t\t\t\\<SUBMIT>\n\n| 1   | 2   | 3   | 4   | 5   |\n| --- | --- | --- | --- | --- |\n\n```\n+------------+---------+----------------+\n|    P1      | P2      | P3             |\n+------------+---------+----------------+\n0\t\t\t 3         6                12\n```\n___\n# Req\n* Input validation is required\n* return:\n\t* Waiting time __for each process__\n\t* Turnaround time for __for each process__\n\t* Response time __for each process__\n\t* AVG(waiting, turnaround, response times)\n# Main Idea\n```javascript\nclass Process\n{\n\tint arrivalT;\n\tint burstT;\n\t//constructor\n}\nProcess processes[N]{P1, P2, ......}\nfunction drawDiagram(Process Processes)\n{\n\t//draw chart\n}\nprint(\"<p>dvsvs</p>\")\n```\n"}
-	],
-	"edges":[]
-}
