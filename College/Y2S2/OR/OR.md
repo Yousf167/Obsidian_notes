@@ -21,11 +21,12 @@ There are 5 criteria:
 3. __Criterion of Realism (Hurwicz)__: create a column out of: $\large \alpha (MAX(each\ row)) + (1-\alpha)(MIN(each\ row))$ then choose MAX(realism column)
 4. __Equally Likely__: choose MAX(AVG(each row))
 5. __MiniMax Regret__: 
-	1. create an opportunity loss table
+	1. create an opportunity loss table: $payoff_{i,\ j} = MAX(column_i) - payoff_{i,\ j}$
 	2. choose MIN(MAX(each row))
 ## Decision Under Risk
  $$\large EMV_i = \sum_{i = 1}^{n}payoff_i \times P_i$$
- * where i is the row number. _MAX(EMV)_ is chosen
+ * where i is the row number. 
+ * _MAX(EMV)_ is chosen.
 ## Expected value of Perfect Information (EVPI)
 $$\large EVPI = EV_wPI - MAX(EMV)$$
 * where $\large EVPI$ is the upper bound that should be paid for information. An offer above it should not be considered
@@ -34,7 +35,7 @@ $$\large EV_wPI = \sum_{i = 0}^{n}MAX(column_i) \times P(column_i)$$
 ## Expected Opportunity Loss
 * the cost of not picking the best solution
 ### Steps:
-1. Construct an opportunity loss table
+1. Construct an opportunity loss table\
 2. find the EMV of each column
 3. choose MIN(EMV)
 * Note: MIN(EOL) = MAX(EMV) = EVPI 
@@ -73,6 +74,11 @@ $$\large\bullet TC = \frac{D}{Q}C_o + \frac{Q}{2}C_h$$
 * $\large C_h = IC$: Holding cost
 * $\large DC$: Material Cost
 $$\large\bullet\ Total\ Cost = \text{Material Cost} + \text{Annual order cost} + \text{Annual holding cost}$$
+* ROP: ReOrder Point
+* d: daily demand
+* L : order lead time
+$$\large \bullet\ ROP = d \times l\ \text{(Basic equation)}$$
+$$\large \therefore\ ROP = d \times l + SS,\ SS = Safety\ Stock$$
 ### How to solve it
 Let's say we have this table:
 
@@ -98,3 +104,45 @@ $\large D = 1000,\ C_o = 4\$,\ C_h = 2\%\ of\ unit\ price$
 #### Step 4: Choose the least total value
 Model 3 is chosen
 
+
+## Production Run Model
+* Setup Cost replaces Ordering Cost
+* Q: number of pieces per order or production run
+* $C_s$: Setup cost
+* $C_h$: holding or carrying cost per unit per year
+* p: daily production rate
+* d: daily demand rate
+* t: length of production run in days
+$$\large \bullet\ Maximum\ Inventory\ Level = pt - dt = Q(1-\frac{d}{p})$$
+$$\large \bullet\ AVG\ Inventory\ Level = \frac{MAX(Inventory)}{2}$$
+$$\large \bullet\ Annual\ Holding\ Cost = \frac{Q}{2}(1-\frac{d}{p})C_h = AVG(Inventory) \times C_h$$
+$$\large \bullet\ Annual\ setup\ cost = \frac{D}{Q}C_s$$
+$$\large \bullet\ Annual\ Ordering\ Cost = \frac{D}{Q}C_o$$
+* To get optimal production quantity let:
+$$\large \bullet\ \text{Ann. Hold. Cost = Ann. Setup cost}$$
+
+
+## Linear Programming
+
+* You are given a target function to minimize or minimize within certain constraints
+$$\large z = 8x + y$$
+* Constraints:
+$$\large \bullet\ x + y \leq 40$$
+$$\large \bullet\ 2x + y \leq 60$$	$$\large \bullet\ x, y \geq 0$$
+### Steps:
+1. plot each constraint
+2. find the feasible region
+3. find the corner points
+4. calculate the objective function
+5. find the optimal solution
+
+#### Step 1, 2, 3: 
+![[bc554331c8d04e212b27e6d9aec5d4ba_MD5.jpeg|center]]
+#### Step 4, 5:
+
+| x    | y   | z     |
+| ---- | --- | ----- |
+| 0    | 0   | 0     |
+| _30_ | _0_ | _240_ |
+| 0    | 40  | 40    |
+| 20   | 20  | 180   |

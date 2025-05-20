@@ -4,133 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c0375b2ef14c86d6",
+        "id": "20b55b86b4a3e9dc",
         "type": "tabs",
         "children": [
           {
-            "id": "b84faaa922fc5745",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "College/Y2S2/Data Comms/Lectures/DC_Lec_9.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DC_Lec_9"
-            }
-          },
-          {
-            "id": "d5eff993603c0df2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "College/Y2S2/Data Comms/Lectures/DC_Lec_8.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DC_Lec_8"
-            }
-          },
-          {
-            "id": "a2515a8fb4d7b64c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "College/Y2S2/Data Comms/Lectures/DC_Lec_7.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DC_Lec_7"
-            }
-          },
-          {
-            "id": "1916ff160f53cb3b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "College/Y2S2/Data Comms/Lectures/DC_Lec_6.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DC_Lec_6"
-            }
-          },
-          {
-            "id": "7cd1c78e02c1aa1b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "College/Y2S2/Data Comms/Lectures/DC_Lec_5.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DC_Lec_5"
-            }
-          },
-          {
-            "id": "3ea37d00a3209906",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "College/Y2S2/Data Comms/Lectures/DC_Lec_4.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DC_Lec_4"
-            }
-          },
-          {
-            "id": "2a19674b571e52d3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "College/Y2S2/Data Comms/Lectures/DC_Lec_3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DC_Lec_3"
-            }
-          },
-          {
-            "id": "ff8c9f383d44735c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "College/Y2S2/Data Comms/Lectures/DC_Lec_2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DC_Lec_2"
-            }
-          },
-          {
-            "id": "171f9d4ff7ee5a09",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "College/Y2S2/Data Comms/Lectures/DC_Lec_1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DC_Lec_1"
-            }
-          },
-          {
-            "id": "3c8896d924593d3d",
+            "id": "4c3b20de00bac360",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Y2S2/Data Comms/Data Comms.md",
+                "file": "College/Y2S2/OR/OR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Comms"
+              "title": "OR"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,18 +170,22 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "3c8896d924593d3d",
+  "active": "4c3b20de00bac360",
   "lastOpenFiles": [
-    "College/Y2S2/Data Comms/Lectures/DC_Lec_5.pdf",
-    "College/Y2S2/Data Comms/Lectures/DC_Lec_4.pdf",
-    "College/Y2S2/Data Comms/Lectures/DC_Lec_3.pdf",
-    "College/Y2S2/Data Comms/Lectures/DC_Lec_2.pdf",
-    "College/Y2S2/Data Comms/Data Comms.md",
+    "College/Y2S2/OR/Lectures/Lecture 10-Part-1 Chapter 7 (Linear programming  Graphical Methods)_with audio.pdf",
+    "College/Y2S2/OR/OR.md",
+    "bc554331c8d04e212b27e6d9aec5d4ba_MD5.jpeg",
+    "Pasted image 20250520104653.png",
+    "undergradmath.pdf",
+    "College/Y2S2/OR/Lectures/Lecture 09 Chapter 6 (Inventory Control Models).pdf",
+    "College/Y2S2/OR/Lectures/Lecture 08, chapter 6 discount models.pdf",
+    "latexsheet-a4.pdf",
+    "College/Y2S2/OR/Lectures/Lecture 07_Chapter 6 (Inventory Control Models).pdf",
+    "College/Y2S2/OR/Lectures/Lecture 05, Chapter 3, Decision Trees_example.pdf",
+    "College/Y2S2/Data Comms/Lectures/DC_Lec_9.pdf",
     "College/Y2S2/Data Comms/Lectures/DC_Lec_8.pdf",
     "College/Y2S2/Data Comms/Lectures/DC_Lec_7.pdf",
-    "College/Y2S2/Data Comms/Lectures/DC_Lec_6.pdf",
-    "College/Y2S2/Data Comms/Lectures/DC_Lec_9.pdf",
-    "College/Y2S2/Data Comms/Lectures/DC_Lec_1.pdf",
+    "College/Y2S2/Data Comms/Data Comms.md",
     "College/Y2S2/Data Comms/f3b4236c007b1ac3f9e16566deab3419_MD5.jpeg",
     "Pasted image 20250517091710.png",
     "College/Y2S2/Data Comms/0e7f7d2aa22e26885f97779707cd1222_MD5.jpeg",
@@ -299,18 +194,14 @@
     "Pasted image 20250517090911.png",
     "College/Y2S2/Data Comms/6724f00958b9efe40e2ecf589a6dcb7c_MD5.jpeg",
     "Pasted image 20250517090008.png",
-    "College/Y2S2/Data Comms/60e855588926b08e0e2f194b46c62c44_MD5.jpeg",
-    "Pasted image 20250517084940.png",
     "College/Y2S2/Y2S2.md",
     "College/College.md",
-    "College/Y2S2/DSA/Lectures/F24-Ch06-Trees.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "College/Y2S2/Fundamentals of Management/FOM.md",
     "College/Y2S2/DSA/DSA.md",
     "College/Y2S2/Fundamentals of Management/Presentation/The Relation Between Employee Motivation and Organizations.md",
     "College/Y2S2/OS-1/Notes/Interrupts and Storage Structures.md",
-    "College/Y2S2/OR/OR.md",
     "College/Y2S2/OS-1/OS-1.md",
     "Misc/Ubuntu/Important Commands.md",
     "Competitive Programiming/Bit masks/Bit masking.md",
