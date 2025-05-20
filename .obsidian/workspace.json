@@ -11,14 +11,12 @@
             "id": "4c3b20de00bac360",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "College/Y2S2/OR/OR.md",
-                "mode": "source",
-                "source": false
+                "file": "College/Y2S2/OR/Sections/special-cases of LP.pdf"
               },
-              "icon": "lucide-file",
-              "title": "OR"
+              "icon": "lucide-file-text",
+              "title": "special-cases of LP"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "b0a3a1538c305c83",
@@ -172,9 +169,12 @@
   },
   "active": "4c3b20de00bac360",
   "lastOpenFiles": [
-    "College/Y2S2/OR/Lectures/Lecture 10-Part-1 Chapter 7 (Linear programming  Graphical Methods)_with audio.pdf",
     "College/Y2S2/OR/OR.md",
-    "bc554331c8d04e212b27e6d9aec5d4ba_MD5.jpeg",
+    "College/Y2S2/OR/Images/bc554331c8d04e212b27e6d9aec5d4ba_MD5.jpeg",
+    "Misc/Misc.md",
+    "Misc/Ubuntu/Important Commands.md",
+    "College/Y2S2/Fundamentals of Management/PDFs/Lec.5 Controlling.pdf",
+    "College/Y2S2/OR/Lectures/Lecture 10-Part-1 Chapter 7 (Linear programming  Graphical Methods)_with audio.pdf",
     "Pasted image 20250520104653.png",
     "undergradmath.pdf",
     "College/Y2S2/OR/Lectures/Lecture 09 Chapter 6 (Inventory Control Models).pdf",
@@ -184,7 +184,6 @@
     "College/Y2S2/OR/Lectures/Lecture 05, Chapter 3, Decision Trees_example.pdf",
     "College/Y2S2/Data Comms/Lectures/DC_Lec_9.pdf",
     "College/Y2S2/Data Comms/Lectures/DC_Lec_8.pdf",
-    "College/Y2S2/Data Comms/Lectures/DC_Lec_7.pdf",
     "College/Y2S2/Data Comms/Data Comms.md",
     "College/Y2S2/Data Comms/f3b4236c007b1ac3f9e16566deab3419_MD5.jpeg",
     "Pasted image 20250517091710.png",
@@ -203,7 +202,6 @@
     "College/Y2S2/Fundamentals of Management/Presentation/The Relation Between Employee Motivation and Organizations.md",
     "College/Y2S2/OS-1/Notes/Interrupts and Storage Structures.md",
     "College/Y2S2/OS-1/OS-1.md",
-    "Misc/Ubuntu/Important Commands.md",
     "Competitive Programiming/Bit masks/Bit masking.md",
     "Competitive Programiming/Recursion and Backtracking/How to solve Recursion Problems.md",
     "Competitive Programiming/Competitive Programming.md"

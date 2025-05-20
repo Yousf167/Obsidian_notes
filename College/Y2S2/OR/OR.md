@@ -1,4 +1,4 @@
-## PDFs:
+## Lectures:
 1. [[Lecture 01-Introduction to Operation research.pdf]]
 2. [[Lecture 02_Chapter 3 (Decision Analysis).pdf]]
 3. [[Lecture 03, Decision Analysis_underRisk.pdf]]
@@ -8,6 +8,15 @@
 7. [[Lecture 08, chapter 6 discount models.pdf]]
 8. [[Lecture 09 Chapter 6 (Inventory Control Models).pdf]]
 9. [[Lecture 10-Part-1 Chapter 7 (Linear programming  Graphical Methods)_with audio.pdf]]
+## Sections
+1. [[Decision under uncertainty.pdf]]
+2. [[Decision under risk.pdf]]
+3. [[Decision tree.pdf]]
+4. [[EOQ Model.pdf]]
+5. [[Discount model.pdf]]
+6. [[Production Run Model - OR.pdf]]
+7. [[Linear Programming.pdf]]
+8. [[special-cases of LP.pdf]]
 
 # Rules
 Decisions fall under 3 types:
