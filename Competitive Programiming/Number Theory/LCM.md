@@ -314,3 +314,7 @@ Take:
 |C++17+|No built-in, use `std::lcm(a, b)` in C++20|
 |Java|No built-in, use GCD trick|
 |JavaScript|Write custom function (no native)|
+## Notes
+* For an integer n, if we need to find two numbers a, b such that $a+b = n,\ LCM(a, b)\ \text{is the minimum lcm of all numbers a, b that add up to n}$:
+	* if n is prime, a, b = 1, n - 1
+	* else, find a number that divides n and let it be i. a, b = n / i, n - a 

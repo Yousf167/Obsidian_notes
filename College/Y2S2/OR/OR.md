@@ -8,7 +8,8 @@
 7. [[Lecture 08, chapter 6 discount models.pdf]]
 8. [[Lecture 09 Chapter 6 (Inventory Control Models).pdf]]
 9. [[Lecture 10-Part-1 Chapter 7 (Linear programming  Graphical Methods)_with audio.pdf]]
-## Sections
+## Sections:
+
 1. [[Decision under uncertainty.pdf]]
 2. [[Decision under risk.pdf]]
 3. [[Decision tree.pdf]]
@@ -32,30 +33,36 @@ There are 5 criteria:
 5. __MiniMax Regret__: 
 	1. create an opportunity loss table: $payoff_{i,\ j} = MAX(column_i) - payoff_{i,\ j}$
 	2. choose MIN(MAX(each row))
+
 ## Decision Under Risk
  $$\large EMV_i = \sum_{i = 1}^{n}payoff_i \times P_i$$
  * where i is the row number. 
  * _MAX(EMV)_ is chosen.
+
 ## Expected value of Perfect Information (EVPI)
 $$\large EVPI = EV_wPI - MAX(EMV)$$
-* where $\large EVPI$ is the upper bound that should be paid for information. An offer above it should not be considered
+* $\large EVPI$ is the upper bound that should be paid for information. An offer above it should not be considered
 * $\large EV_wPI$ is the long-run average return if we have perfect info.
 $$\large EV_wPI = \sum_{i = 0}^{n}MAX(column_i) \times P(column_i)$$
+
 ## Expected Opportunity Loss
 * the cost of not picking the best solution
 ### Steps:
-1. Construct an opportunity loss table\
+1. Construct an opportunity loss table
 2. find the EMV of each column
 3. choose MIN(EMV)
 * Note: MIN(EOL) = MAX(EMV) = EVPI 
+
 ## Sensitivity Analysis
 * the probabilities become variables (P) and graphs are constructed to find the best decision
 ![[16747a7796b7f13ce0c28ac150b2633b_MD5.jpeg|center]]
 
 ![[ff0879d2e4e6368c05d76764a9485164_MD5.jpeg|center]]
+
 ## Decision Tree
 
 ![[db8c875b114739bb4fd68ee1d4f8e8e1_MD5.jpeg|center]]
+
 ### Expected Value of Sample Information (EVSI)
 $$\large EVSI = (EMV_{with\ Reasearch} + cost_{Research}) - (EMV_{without\ reasearch})$$
 
@@ -65,7 +72,7 @@ Symbols:
 * $\large Q$: Number of pieces to order
 * $\large EOQ = Q^*$: Optimal number of pieces to order
 * $\large D$: annual demand in units for inventory item
-* $\large C_o$: Ordering cost of each order
+* $\large C_o$: Cost of each order
 * $\large C_h$: holding cost/unit/year
 * $\large TC$: Total annual Cost (annual holding cost + annual order cost)
 $$\large\bullet \text{Average inventory}= \frac{Q}{2}$$
@@ -74,6 +81,8 @@ $$\large\bullet Annual\ Order\ Cost = \frac{D}{Q}C_o$$
 $$\large\bullet Annual\ Holding\ cost = \frac{Q}{2}C_h$$
 $$\large\bullet EOQ = Q^* =\sqrt{\frac{2DC_o}{C_h}}$$
 $$\large\bullet TC = \frac{D}{Q}C_o + \frac{Q}{2}C_h$$
+
+
 ## Discount Models
 * Holding cost is variable: $\large C_h = IC$ where $\large I$ = holding cost as a percentage of unit cost $\large C$
 * $\large D$: annual Demand in units
@@ -88,6 +97,7 @@ $$\large\bullet\ Total\ Cost = \text{Material Cost} + \text{Annual order cost} +
 * L : order lead time
 $$\large \bullet\ ROP = d \times l\ \text{(Basic equation)}$$
 $$\large \therefore\ ROP = d \times l + SS,\ SS = Safety\ Stock$$
+
 ### How to solve it
 Let's say we have this table:
 
@@ -97,7 +107,7 @@ Let's say we have this table:
 | Model 2 | 2500 - 3999            | 1.00           |
 | Model 3 | 4000+                  | 0.98           |
 
-$\large D = 1000,\ C_o = 4\$,\ C_h = 2\%\ of\ unit\ price$
+$\large D = 10000,\ C_o = 4\$,\ I = 2\%\ of\ unit\ price$
 #### Step 1: Calculate the EOQ for each model
 * Q1 = 1826 units
 * Q2 = 2000 units
@@ -105,7 +115,7 @@ $\large D = 1000,\ C_o = 4\$,\ C_h = 2\%\ of\ unit\ price$
 #### Step 2: Adjust Quantities to given ranges
 * Q1 is in range. it will remain the same
 * Q2 is smaller than the minimum in the range. it will change to 2500
-* Q3 is smaller than the minimum in the range. is will change to 4000
+* Q3 is smaller than the minimum in the range. it will change to 4000
 #### Step 3: Calculate TC for each model
 * TC1 = 12043.81$
 * TC2 = 10041$
@@ -126,18 +136,20 @@ $$\large \bullet\ Maximum\ Inventory\ Level = pt - dt = Q(1-\frac{d}{p})$$
 $$\large \bullet\ AVG\ Inventory\ Level = \frac{MAX(Inventory)}{2}$$
 $$\large \bullet\ Annual\ Holding\ Cost = \frac{Q}{2}(1-\frac{d}{p})C_h = AVG(Inventory) \times C_h$$
 $$\large \bullet\ Annual\ setup\ cost = \frac{D}{Q}C_s$$
-$$\large \bullet\ Annual\ Ordering\ Cost = \frac{D}{Q}C_o$$
+$$\large \bullet\ Production\ time = t = \frac{Q}{p}$$
 * To get optimal production quantity let:
 $$\large \bullet\ \text{Ann. Hold. Cost = Ann. Setup cost}$$
-
+$$\large \therefore Q = \sqrt{\frac{2DC_S}{C_h(1-\frac{d}{p})}}$$
 
 ## Linear Programming
 
 * You are given a target function to minimize or minimize within certain constraints
-$$\large z = 8x + y$$
+	* $\large z = 8x + y$
 * Constraints:
-$$\large \bullet\ x + y \leq 40$$
-$$\large \bullet\ 2x + y \leq 60$$	$$\large \bullet\ x, y \geq 0$$
+	* $\large x + y \leq 40$
+	* $\large 2x + y \leq 60$
+	* $\large x, y \geq 0$
+
 ### Steps:
 1. plot each constraint
 2. find the feasible region

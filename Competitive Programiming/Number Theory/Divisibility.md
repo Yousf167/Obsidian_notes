@@ -69,3 +69,6 @@ $$ \text{LCM}(a,b) = \frac{|a \times b|}{\text{GCD}(a,b)} $$
 - Error detection (checksums)
 - Calendar calculations
 - Computer science (hashing functions)
+
+## Notes:
+* all numbers that are not powers of 2 have **odd** factors

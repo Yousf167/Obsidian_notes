@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20b55b86b4a3e9dc",
+        "id": "b8c4b52f353824ed",
         "type": "tabs",
         "children": [
           {
-            "id": "4c3b20de00bac360",
+            "id": "06abcc8394d5a406",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "College/Y2S2/OR/Sections/special-cases of LP.pdf"
+                "file": "Competitive Programiming/Bit masks/Bit masking.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "special-cases of LP"
+              "icon": "lucide-file",
+              "title": "Bit masking"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Y2S2/Data Comms/Lectures/DC_Lec_8.pdf",
+                "file": "College/Y2S2/OS-1/Books/Operating-System-Concepts-10th-2018.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DC_Lec_8"
+              "title": "Backlinks for Operating-System-Concepts-10th-2018"
             }
           },
           {
@@ -140,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Y2S2/OR/OR.md",
+                "file": "College/Y2S2/OS-1/Books/Operating-System-Concepts-10th-2018.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OR"
+              "title": "Outline of Operating-System-Concepts-10th-2018"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,24 +170,35 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4c3b20de00bac360",
+  "active": "06abcc8394d5a406",
   "lastOpenFiles": [
+    "College/Y2S2/OS-1/PDFs/ch9 Update l.pdf",
+    "Competitive Programiming/Number Theory/Divisibility.md",
+    "College/Y2S2/OS-1/Books/Operating-System-Concepts-10th-2018.pdf",
+    "College/Y2S2/DSA/Lectures/AVL Tree (SE).pdf",
+    "College/Y2S2/DSA/Lectures/F24-Ch06-Trees.pdf",
+    "College/Y2S2/DSA/Lectures/F24-Ch04-Queues.pdf",
+    "College/Y2S2/DSA/Lectures/Ch03-Stacks.pdf",
+    "College/Y2S2/DSA/Lectures/Ch02-Lists.pdf",
+    "College/Y2S2/DSA/Lectures/Ch01-Introduction to Abstract Data Types.pdf",
+    "College/Y2S2/Prof Ethics/PE.md",
+    "College/Y2S2/Data Comms/Data Comms.md",
+    "College/Y2S2/DSA/DSA.md",
+    "College/Y2S2/Fundamentals of Management/PDFs/Entrepreneurship 3.pdf",
+    "College/Y2S2/Fundamentals of Management/PDFs/Entrepreneurship 2.pdf",
+    "College/Y2S2/Fundamentals of Management/PDFs/Entrepreneurship 1.pdf",
+    "College/Y2S2/Fundamentals of Management/FOM.md",
+    "Competitive Programiming/Number Theory/LCM.md",
+    "Competitive Programiming/Number Theory/Number theory.md",
+    "Untitled.md",
+    "College/Y2S2/OS-1/OS-1.md",
+    "College/Y2S2/OS-1/Notes/Interrupts and Storage Structures.md",
     "College/Y2S2/OR/OR.md",
+    "College/Y2S2/Y2S2.md",
     "College/Y2S2/OR/Images/bc554331c8d04e212b27e6d9aec5d4ba_MD5.jpeg",
     "Misc/Misc.md",
     "Misc/Ubuntu/Important Commands.md",
-    "College/Y2S2/Fundamentals of Management/PDFs/Lec.5 Controlling.pdf",
-    "College/Y2S2/OR/Lectures/Lecture 10-Part-1 Chapter 7 (Linear programming  Graphical Methods)_with audio.pdf",
     "Pasted image 20250520104653.png",
-    "undergradmath.pdf",
-    "College/Y2S2/OR/Lectures/Lecture 09 Chapter 6 (Inventory Control Models).pdf",
-    "College/Y2S2/OR/Lectures/Lecture 08, chapter 6 discount models.pdf",
-    "latexsheet-a4.pdf",
-    "College/Y2S2/OR/Lectures/Lecture 07_Chapter 6 (Inventory Control Models).pdf",
-    "College/Y2S2/OR/Lectures/Lecture 05, Chapter 3, Decision Trees_example.pdf",
-    "College/Y2S2/Data Comms/Lectures/DC_Lec_9.pdf",
-    "College/Y2S2/Data Comms/Lectures/DC_Lec_8.pdf",
-    "College/Y2S2/Data Comms/Data Comms.md",
     "College/Y2S2/Data Comms/f3b4236c007b1ac3f9e16566deab3419_MD5.jpeg",
     "Pasted image 20250517091710.png",
     "College/Y2S2/Data Comms/0e7f7d2aa22e26885f97779707cd1222_MD5.jpeg",
@@ -193,15 +207,10 @@
     "Pasted image 20250517090911.png",
     "College/Y2S2/Data Comms/6724f00958b9efe40e2ecf589a6dcb7c_MD5.jpeg",
     "Pasted image 20250517090008.png",
-    "College/Y2S2/Y2S2.md",
     "College/College.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "College/Y2S2/Fundamentals of Management/FOM.md",
-    "College/Y2S2/DSA/DSA.md",
     "College/Y2S2/Fundamentals of Management/Presentation/The Relation Between Employee Motivation and Organizations.md",
-    "College/Y2S2/OS-1/Notes/Interrupts and Storage Structures.md",
-    "College/Y2S2/OS-1/OS-1.md",
     "Competitive Programiming/Bit masks/Bit masking.md",
     "Competitive Programiming/Recursion and Backtracking/How to solve Recursion Problems.md",
     "Competitive Programiming/Competitive Programming.md"

@@ -11,12 +11,14 @@
             "id": "f845e51b70df5da1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "College/Y2S2/Data Comms/Lectures/DC_Lec_4.pdf"
+                "file": "College/Y2S2/Fundamentals of Management/FOM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DC_Lec_4"
+              "icon": "lucide-file",
+              "title": "FOM"
             }
           }
         ]
@@ -127,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "College/Y2S2/Data Comms/Lectures/DC_Lec_3.pdf",
+            "file": "College/Y2S2/Fundamentals of Management/FOM.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -151,17 +153,21 @@
   },
   "active": "f845e51b70df5da1",
   "lastOpenFiles": [
-    "College/Y2S2/OR/OR.md",
-    "College/Y2S2/DSA/Lectures/Ch03-Stacks.pdf",
-    "College/Y2S2/DSA/Lectures/Ch02-Lists.pdf",
-    "College/Y2S2/Data Comms/Lectures/DC_Lec_3.pdf",
-    "College/Y2S2/Data Comms/Lectures/DC_Lec_2.pdf",
-    "College/Y2S2/Data Comms/Lectures/DC_Lec_1.pdf",
-    "College/Y2S2/OS-1/PDFs/ch11 (1).pdf",
-    "College/Y2S2/OS-1/PDFs/deadlock.pdf",
+    "College/Y2S2/Fundamentals of Management/PDFs/Entrepreneurship 3.pdf",
+    "College/Y2S2/Fundamentals of Management/PDFs/Entrepreneurship 4.pdf",
+    "College/Y2S2/Fundamentals of Management/PDFs/Lec.3 Organizing.pdf",
     "College/Y2S2/OS-1/PDFs/ch5 2025 modified.pdf",
+    "College/Y2S2/OS-1/PDFs/ch9 Update l.pdf",
+    "College/Y2S2/OS-1/OS-1.md",
+    "College/Y2S2/OS-1/PDFs/ch11 (1).pdf",
     "College/Y2S2/OS-1/PDFs/ch3 2025.pdf",
-    "College/Y2S2/OS-1/PDFs/ch 1 modified 2025.pdf",
+    "College/Y2S2/OS-1/PDFs/deadlock.pdf",
+    "College/Y2S2/OS-1/PDFs/ch13 modified.pdf",
+    "College/Y2S2/Prof Ethics/PE.md",
+    "College/Y2S2/Prof Ethics/Lecture/Week 5 and 6 - Chapter 4.pdf",
+    "College/Y2S2/Prof Ethics/Lecture/Week 4 - Chapter 3.pdf",
+    "College/Y2S2/OR/OR.md",
+    "College/Y2S2/Data Comms/Data Comms.md",
     "Competitive Programiming/Competitive Programming.md",
     "Untitled.canvas",
     "Competitive Programiming/Bit masks/Bit masking.md",
@@ -187,10 +193,6 @@
     "Second year 1/M&S/M&S lecture 3.md",
     "Second year 1/PL-2/PL-2 Lecture 3, 4.md",
     "Second year 1/PL-2/PL Project.canvas",
-    "Second year 1/SW-1/Notes/SWE lecture 5.md",
-    "Second year 1/SW-1/Notes/SWE lecture 6.md",
-    "Second year 1/PL-2/PL-2.md",
-    "Second year 1/Second year sem.1.md",
     "Second year 1/PL-2/images/Screenshot 2024-11-18 090434.png",
     "Second year 1/PL-2/images/Screenshot 2024-11-18 085837.png",
     "Second year 1/Statistics/Screenshot 2024-10-14 174602.png"

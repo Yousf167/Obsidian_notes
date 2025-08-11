@@ -1,1 +1,0 @@
-see page 36 and the following pages in [[Operating-System-Concepts-10th-2018.pdf]].
