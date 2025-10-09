@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b8c4b52f353824ed",
+        "id": "bb57e6d3606553d1",
         "type": "tabs",
         "children": [
           {
-            "id": "06abcc8394d5a406",
+            "id": "4897600a29e7d3b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Competitive Programiming/Bit masks/Bit masking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bit masking"
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Oct, 6–Oct, 12"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 324
   },
   "right": {
     "id": "b0a3a1538c305c83",
@@ -150,6 +146,16 @@
               "icon": "lucide-list",
               "title": "Outline of Operating-System-Concepts-10th-2018"
             }
+          },
+          {
+            "id": "27e714e1b1a1351c",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 2
@@ -161,58 +167,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "06abcc8394d5a406",
+  "active": "8807fe481078d091",
   "lastOpenFiles": [
-    "College/Y2S2/OS-1/PDFs/ch9 Update l.pdf",
-    "Competitive Programiming/Number Theory/Divisibility.md",
-    "College/Y2S2/OS-1/Books/Operating-System-Concepts-10th-2018.pdf",
-    "College/Y2S2/DSA/Lectures/AVL Tree (SE).pdf",
-    "College/Y2S2/DSA/Lectures/F24-Ch06-Trees.pdf",
-    "College/Y2S2/DSA/Lectures/F24-Ch04-Queues.pdf",
-    "College/Y2S2/DSA/Lectures/Ch03-Stacks.pdf",
-    "College/Y2S2/DSA/Lectures/Ch02-Lists.pdf",
-    "College/Y2S2/DSA/Lectures/Ch01-Introduction to Abstract Data Types.pdf",
-    "College/Y2S2/Prof Ethics/PE.md",
-    "College/Y2S2/Data Comms/Data Comms.md",
-    "College/Y2S2/DSA/DSA.md",
-    "College/Y2S2/Fundamentals of Management/PDFs/Entrepreneurship 3.pdf",
-    "College/Y2S2/Fundamentals of Management/PDFs/Entrepreneurship 2.pdf",
-    "College/Y2S2/Fundamentals of Management/PDFs/Entrepreneurship 1.pdf",
-    "College/Y2S2/Fundamentals of Management/FOM.md",
-    "Competitive Programiming/Number Theory/LCM.md",
-    "Competitive Programiming/Number Theory/Number theory.md",
+    "2025-10-06.md",
     "Untitled.md",
-    "College/Y2S2/OS-1/OS-1.md",
-    "College/Y2S2/OS-1/Notes/Interrupts and Storage Structures.md",
-    "College/Y2S2/OR/OR.md",
-    "College/Y2S2/Y2S2.md",
-    "College/Y2S2/OR/Images/bc554331c8d04e212b27e6d9aec5d4ba_MD5.jpeg",
+    "DEPI Project/Media/Pasted image 20250928220118.png",
+    "College/Y3S1/Information Systems Security/ISS.md",
+    "College/Y3S1/Information Systems Security/PDFs/CHAPTER-2-Attacks-and-Monitoring.pdf",
+    "College/Y3S1/Information Systems Security/PDFs/CHAPTER-4-Data-and-Application-Security-Issues-Part-1.pdf",
+    "College/Y3S1/Information Systems Security/PDFs/CHAPTER-3-Security-Management-Concepts-and-Principles.pdf",
+    "College/Y3S1/Information Systems Security/PDFs/CHAPTER-1-Accountability-and-Access-Control-_downgraded.pdf",
+    "College/Y3S1/Data Storage and Retrieval (IR)/DSR.md",
+    "College/Y3S1/Computer Networks-1/CN-1.md",
+    "College/Y3S1/Computer Networks-1/PDF/Lecture1_A.pdf",
+    "College/Y3S1/Data Storage and Retrieval/PDFs/1.-IR-Lecture-1--Intro-to-Course---SWE.pptx.pdf",
+    "College/Y3S1/Computer Networks-1/PDF/IP_Addresses_Lecture.pdf",
+    "College/Y3S1/Information Systems Security/PPT/CHAPTER-4-Data-and-Application-Security-Issues-Part-2.ppt",
+    "College/Y3S1/Information Systems Security/PPT/CHAPTER-4-Data-and-Application-Security-Issues-Part-1.ppt",
+    "College/Y3S1/Information Systems Security/PPT/CHAPTER-3-Security-Management-Concepts-and-Principles.ppt",
+    "DEPI Project/Features.md",
+    "DEPI Project/React Project.png",
+    "DEPI Project/Pages and Components.canvas",
+    "DEPI Project/Pages and Components.png",
+    "DEPI Project/Media/9d11b350c966a876af9d178e02f84bf8_MD5.jpeg",
+    "DEPI Project/Media/6d810cb9a546855fd1d349bb07aab1c5_MD5.jpeg",
+    "DEPI Project/Media/ff3841b67109bdc31d68ff99b48d0f7a_MD5.jpeg",
+    "DEPI Project/Architecture.canvas",
+    "Project/Untitled.md",
+    "College/Y3S1/Database-2/DB-2.md",
+    "College/Y3S1/Management Information Systems/MIS.md",
+    "College/Y3S1/Data Storage and Retrieval/DSR.md",
+    "Misc/Software Development Methodologies.md",
     "Misc/Misc.md",
     "Misc/Ubuntu/Important Commands.md",
-    "Pasted image 20250520104653.png",
-    "College/Y2S2/Data Comms/f3b4236c007b1ac3f9e16566deab3419_MD5.jpeg",
-    "Pasted image 20250517091710.png",
-    "College/Y2S2/Data Comms/0e7f7d2aa22e26885f97779707cd1222_MD5.jpeg",
-    "Pasted image 20250517091224.png",
-    "College/Y2S2/Data Comms/0313b1b7975b7809b8efebafe9565021_MD5.jpeg",
-    "Pasted image 20250517090911.png",
-    "College/Y2S2/Data Comms/6724f00958b9efe40e2ecf589a6dcb7c_MD5.jpeg",
-    "Pasted image 20250517090008.png",
-    "College/College.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "College/Y2S2/Fundamentals of Management/Presentation/The Relation Between Employee Motivation and Organizations.md",
+    "Misc/Maven/Most useful Spring and SpringBoot annotations.md",
+    "Misc/Maven/Maven 101.md",
+    "Misc/Maven/application.properties or application.yaml.md",
+    "Competitive Programiming/Number Theory/Sieve of Eratosthenes.md",
+    "Competitive Programiming/Number Theory/Number theory.md",
+    "Competitive Programiming/Number Theory/Divisibility.md",
+    "Competitive Programiming/Number Theory/Prime numbers.md",
+    "Competitive Programiming/Number Theory/LCM.md",
+    "Competitive Programiming/Number Theory/GCD.md",
+    "Competitive Programiming/Number Theory/Animation_Sieve_of_Eratosth.gif",
     "Competitive Programiming/Bit masks/Bit masking.md",
-    "Competitive Programiming/Recursion and Backtracking/How to solve Recursion Problems.md",
-    "Competitive Programiming/Competitive Programming.md"
+    "College/Y2S2/Data Comms/Data Comms.md",
+    "College/Y2S2/OR/OR.md",
+    "DEPI Project/Media/Pasted image 20250822160309.png",
+    "DEPI Project/Media/8b6222c7a23302e2ef03a11f1a30a8cd_MD5.jpeg",
+    "Pasted image 20250829155627.png",
+    "Untitled 1.canvas"
   ]
 }

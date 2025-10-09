@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "975add3fd93f72e9",
+        "id": "265c1809296eb59d",
         "type": "tabs",
         "children": [
           {
-            "id": "f845e51b70df5da1",
+            "id": "8049f71b332bb304",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "College/Y2S2/Fundamentals of Management/FOM.md",
-                "mode": "source",
-                "source": false
+                "file": "College/Y3S1/Management Information Systems/PDFs/Laudon_MIS13_ch01.pdf"
               },
-              "icon": "lucide-file",
-              "title": "FOM"
+              "icon": "lucide-file-text",
+              "title": "Laudon_MIS13_ch01"
             }
           }
         ]
@@ -129,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "College/Y2S2/Fundamentals of Management/FOM.md",
+            "file": "College/Y3S1/Management Information Systems/PDFs/Laudon_MIS13_ch01.pdf",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -143,6 +141,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -151,29 +150,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f845e51b70df5da1",
+  "active": "8049f71b332bb304",
   "lastOpenFiles": [
-    "College/Y2S2/Fundamentals of Management/PDFs/Entrepreneurship 3.pdf",
-    "College/Y2S2/Fundamentals of Management/PDFs/Entrepreneurship 4.pdf",
-    "College/Y2S2/Fundamentals of Management/PDFs/Lec.3 Organizing.pdf",
-    "College/Y2S2/OS-1/PDFs/ch5 2025 modified.pdf",
-    "College/Y2S2/OS-1/PDFs/ch9 Update l.pdf",
-    "College/Y2S2/OS-1/OS-1.md",
-    "College/Y2S2/OS-1/PDFs/ch11 (1).pdf",
+    "College/Y3S1/Database-2/DB-2.md",
+    "College/Y3S1/Database-2/PDFs/3-Disk-Storage-and-Basic-File-Structures.pdf",
+    "College/Y3S1/Database-2/PDFs/2.-EERD.pdf",
+    "Project/React Project.canvas",
+    "Project/Features.md",
     "College/Y2S2/OS-1/PDFs/ch3 2025.pdf",
-    "College/Y2S2/OS-1/PDFs/deadlock.pdf",
+    "College/Y3S1/Data Storage and Retrieval/DSR.md",
+    "College/Y2S2/OS-1/PDFs/ch 1 modified 2025.pdf",
     "College/Y2S2/OS-1/PDFs/ch13 modified.pdf",
+    "College/Y2S2/OS-1/PDFs/ch9 Update l.pdf",
+    "College/Y2S1/DB1/Lectures/7-Normalization.pdf",
+    "College/Y2S2/OS-1/PDFs/ch5 2025 modified.pdf",
+    "College/Y2S1/DB1/Lectures/6-Basic-SQL.pdf",
+    "College/Y2S1/DB1/Lectures/5-ER_Mapping.pdf",
+    "College/Y2S1/DB1/Lectures/3--Relational-Data-Model.md",
+    "Competitive Programiming/Number Theory/GCD.md",
+    "Competitive Programiming/Number Theory/Sieve of Eratosthenes.md",
+    "Competitive Programiming/Number Theory/Prime numbers.md",
+    "Competitive Programiming/Number Theory/Number theory.md",
+    "Misc/Ubuntu/Important Commands.md",
+    "Competitive Programiming/Bit masks/Bit masking.md",
+    "Competitive Programiming/Number Theory/Divisibility.md",
+    "Competitive Programiming/Number Theory/LCM.md",
+    "Competitive Programiming/Number Theory/Animation_Sieve_of_Eratosth.gif",
+    "College/Y2S2/Fundamentals of Management/FOM.md",
+    "College/Y2S2/OS-1/OS-1.md",
     "College/Y2S2/Prof Ethics/PE.md",
-    "College/Y2S2/Prof Ethics/Lecture/Week 5 and 6 - Chapter 4.pdf",
-    "College/Y2S2/Prof Ethics/Lecture/Week 4 - Chapter 3.pdf",
     "College/Y2S2/OR/OR.md",
     "College/Y2S2/Data Comms/Data Comms.md",
     "Competitive Programiming/Competitive Programming.md",
     "Untitled.canvas",
-    "Competitive Programiming/Bit masks/Bit masking.md",
-    "Competitive Programiming/Number Theory/GCD.md",
-    "Competitive Programiming/Number Theory/LCM.md",
-    "Competitive Programiming/Number Theory/Number theory.md",
     "Y2S2/OS-1/OS-1.md",
     "Y2S1/SW-1/Notes/SWE Lecture 3.md",
     "Y2S1/SW-1/Notes/SWE Lecture 2.md",
@@ -181,17 +190,8 @@
     "Y2S2/DSA/DSA.md",
     "Y2S2/Y2S2.md",
     "Y2S2/Prof Ethics/PE.md",
-    "Y2S2/OR/lecture 1.md",
-    "Y2S2/OR/OR.md",
     "Second year 1/SW-1/final SWE-1 project/use case.jpg",
-    "Second year 1/Statistics/Statistics lecture 4.md",
-    "Second year 1/PL-2/PL-2 Lecture 0.md",
     "Second year 1/SW-1/final SWE-1 project/Rep system diagram.png",
-    "Second year 1/M&S/M&S Lecture 5.md",
-    "Second year 1/M&S/M&S lecture 6.md",
-    "Second year 1/M&S/M&S lecture 4.md",
-    "Second year 1/M&S/M&S lecture 3.md",
-    "Second year 1/PL-2/PL-2 Lecture 3, 4.md",
     "Second year 1/PL-2/PL Project.canvas",
     "Second year 1/PL-2/images/Screenshot 2024-11-18 090434.png",
     "Second year 1/PL-2/images/Screenshot 2024-11-18 085837.png",

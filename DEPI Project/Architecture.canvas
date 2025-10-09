@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"6373e9478b1aae95","type":"text","text":"login/signup","x":163,"y":-480,"width":250,"height":60},
+		{"id":"882d963a3bbd1a40","type":"text","text":"# Auth layer","x":149,"y":-360,"width":279,"height":60},
+		{"id":"4ded0b2b2468c8fa","type":"text","text":"search","x":-15,"y":-45,"width":250,"height":60},
+		{"id":"bf521ec96d6fe391","type":"text","text":"Results","x":-15,"y":56,"width":250,"height":60},
+		{"id":"c8ebdc6eb39ca927","type":"text","text":"city cards\n","x":-218,"y":214,"width":250,"height":60},
+		{"id":"a2b7b64b163b76cd","type":"text","text":"entire country cards","x":182,"y":214,"width":250,"height":60},
+		{"id":"7dcafe8b32cb94d5","type":"text","text":"# User","x":-15,"y":-205,"width":250,"height":60},
+		{"id":"3eb5a6d3761955e3","type":"text","text":"# Admin","x":340,"y":-200,"width":250,"height":60},
+		{"id":"194c2834a83260be","type":"text","text":"## Added functionalities:\n* edit or update the flight details.","x":281,"y":-45,"width":369,"height":131},
+		{"id":"00ac1538e57d8a57","type":"text","text":"# Booking logic\n\n1. departure point\n2. choose departure time, arrival time\n3.  choose airlines\n4. send the ticket via email and give the option to download the ticket\n\n![[Pasted image 20250928220118.png]]\n","x":620,"y":-498,"width":727,"height":396},
+		{"id":"6e5cb8990f590367","type":"text","text":"## What should be in the DB (debatable)\n1. Users\n2. planes\n3. airlines\n4. Flights / users\n5. generated tickets","x":680,"y":-64,"width":530,"height":300}
+	],
+	"edges":[
+		{"id":"6fbb490636aa0da3","fromNode":"bf521ec96d6fe391","fromSide":"bottom","toNode":"a2b7b64b163b76cd","toSide":"top"},
+		{"id":"5bc25e355dd45a3d","fromNode":"bf521ec96d6fe391","fromSide":"bottom","toNode":"c8ebdc6eb39ca927","toSide":"top"},
+		{"id":"b83ed57b5b0ba1ee","fromNode":"a2b7b64b163b76cd","fromSide":"left","toNode":"c8ebdc6eb39ca927","toSide":"right"},
+		{"id":"bb7363ecd9f0917d","fromNode":"882d963a3bbd1a40","fromSide":"bottom","toNode":"7dcafe8b32cb94d5","toSide":"top"},
+		{"id":"ece6283ec9a13581","fromNode":"882d963a3bbd1a40","fromSide":"bottom","toNode":"3eb5a6d3761955e3","toSide":"top"},
+		{"id":"b9503ffda65000e7","fromNode":"7dcafe8b32cb94d5","fromSide":"bottom","toNode":"4ded0b2b2468c8fa","toSide":"top"},
+		{"id":"477778f2fd60e421","fromNode":"3eb5a6d3761955e3","fromSide":"bottom","toNode":"4ded0b2b2468c8fa","toSide":"top"},
+		{"id":"0a464ef374bb1a89","fromNode":"3eb5a6d3761955e3","fromSide":"bottom","toNode":"194c2834a83260be","toSide":"top"},
+		{"id":"6b101d3010e9fc7b","fromNode":"6373e9478b1aae95","fromSide":"bottom","toNode":"882d963a3bbd1a40","toSide":"top"},
+		{"id":"ddc97b74e59dbac5","fromNode":"4ded0b2b2468c8fa","fromSide":"bottom","toNode":"bf521ec96d6fe391","toSide":"top"}
+	]
+}

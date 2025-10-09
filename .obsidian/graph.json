@@ -3,7 +3,7 @@
   "search": "",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -11,14 +11,14 @@
       "query": "path:Y2S1  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 65331
       }
     },
     {
       "query": "path:Y2S2  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16711680
       }
     },
     {
@@ -34,18 +34,25 @@
         "a": 1,
         "rgb": 4599551
       }
+    },
+    {
+      "query": "path:College/Y3S1  ",
+      "color": {
+        "a": 1,
+        "rgb": 10506976
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -0.5,
-  "nodeSizeMultiplier": 0.891145833333333,
+  "textFadeMultiplier": 0.6,
+  "nodeSizeMultiplier": 1.28711340206186,
   "lineSizeMultiplier": 1.63125,
   "collapse-forces": false,
-  "centerStrength": 0.5625,
-  "repelStrength": 10,
-  "linkStrength": 1,
+  "centerStrength": 0.479381443298969,
+  "repelStrength": 7.83505154639175,
+  "linkStrength": 0.27319587628866,
   "linkDistance": 30,
-  "scale": 0.22920131333095548,
+  "scale": 0.31595320796091647,
   "close": true
 }
