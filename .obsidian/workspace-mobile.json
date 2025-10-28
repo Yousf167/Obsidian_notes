@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "College/Y3S1/Management Information Systems/PDFs/Laudon_MIS13_ch01.pdf"
+                "file": "College/Y3S1/Data Storage and Retrieval (IR)/PDFs/2.-Boolean-Retrieval-Model.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Laudon_MIS13_ch01"
+              "title": "2.-Boolean-Retrieval-Model"
             }
           }
         ]
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "College/Y3S1/Management Information Systems/PDFs/Laudon_MIS13_ch01.pdf",
+            "file": "College/Y3S1/Data Storage and Retrieval (IR)/PDFs/2.-Boolean-Retrieval-Model.pdf",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -152,8 +152,12 @@
   },
   "active": "8049f71b332bb304",
   "lastOpenFiles": [
-    "College/Y3S1/Database-2/DB-2.md",
+    "College/Y3S1/Management Information Systems/MIS.md",
+    "College/Y2S2/DSA/DSA.md",
+    "College/Y3S1/Management Information Systems/PDFs/Laudon_MIS13_ch01.pdf",
     "College/Y3S1/Database-2/PDFs/3-Disk-Storage-and-Basic-File-Structures.pdf",
+    "College/Y3S1/Database-2/PDFs/4-Relational-Algebra-I.pdf",
+    "College/Y3S1/Database-2/DB-2.md",
     "College/Y3S1/Database-2/PDFs/2.-EERD.pdf",
     "Project/React Project.canvas",
     "Project/Features.md",
@@ -164,8 +168,6 @@
     "College/Y2S2/OS-1/PDFs/ch9 Update l.pdf",
     "College/Y2S1/DB1/Lectures/7-Normalization.pdf",
     "College/Y2S2/OS-1/PDFs/ch5 2025 modified.pdf",
-    "College/Y2S1/DB1/Lectures/6-Basic-SQL.pdf",
-    "College/Y2S1/DB1/Lectures/5-ER_Mapping.pdf",
     "College/Y2S1/DB1/Lectures/3--Relational-Data-Model.md",
     "Competitive Programiming/Number Theory/GCD.md",
     "Competitive Programiming/Number Theory/Sieve of Eratosthenes.md",
@@ -189,7 +191,6 @@
     "Y2S1/SW-1/Notes/SWE lecture 1.md",
     "Y2S2/DSA/DSA.md",
     "Y2S2/Y2S2.md",
-    "Y2S2/Prof Ethics/PE.md",
     "Second year 1/SW-1/final SWE-1 project/use case.jpg",
     "Second year 1/SW-1/final SWE-1 project/Rep system diagram.png",
     "Second year 1/PL-2/PL Project.canvas",

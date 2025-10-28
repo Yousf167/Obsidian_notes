@@ -1,10 +1,16 @@
 ## PDFs
-1. [[CHAPTER-1-Accountability-and-Access-Control-_downgraded.pdf]]
+
+Lectures:
+1. [[CHAPTER 1 Accountability and Access Control .pdf]]]
 2. [[CHAPTER-2-Attacks-and-Monitoring.pdf]]
 3. [[CHAPTER-3-Security-Management-Concepts-and-Principles.pdf]]
 4. [[CHAPTER-4-Data-and-Application-Security-Issues-Part-1.pdf]]
 5. [[CHAPTER-4-Data-and-Application-Security-Issues-Part-2.pdf]]
 
+Sections:
+1. [[Section 1.pdf]]
+2. [[Section 2.pdf]]
+3. [[Advanced Encryption Standard-1.pdf]]
 
 # Chapter 1: Accountability and Access Control
 * **Access controls** are security features that control how users and systems communicate and interact with other systems and resources. They protect the systems and resources from unauthorized access and can be components that participate in determining the level of authorization after an authentication procedure has successfully completed.
