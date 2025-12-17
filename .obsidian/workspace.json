@@ -4,23 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3951719a731cc603",
+        "id": "b8bda434292ac209",
         "type": "tabs",
         "children": [
           {
-            "id": "44efc252f5749889",
+            "id": "882e90dc2cbc0187",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "College/Y3S1/Database-2/PDFs/2.-EERD.pdf",
-                "page": 14,
-                "left": -4,
-                "top": 448,
-                "zoom": 0.9402777777777778
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 264.13470896886867,
+                  "y": -442.59109830017417,
+                  "zoom": -1.1102230246251565e-16
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "2.-EERD"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -80,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 325
   },
   "right": {
     "id": "b0a3a1538c305c83",
@@ -186,22 +187,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44efc252f5749889",
+  "active": "882e90dc2cbc0187",
   "lastOpenFiles": [
-    "College/Y3S1/Database-2/DB-2.md",
-    "College/Y3S1/Database-2/PDFs/2.-EERD.pdf",
-    "College/Y3S1/Y3S1.md",
-    "College/Y3S1/Information Systems Security/PDFs/Sections/Advanced Encryption Standard-1.pdf",
-    "College/Y3S1/Information Systems Security/ISS.md",
-    "College/Y3S1/Information Systems Security/PDFs/Sections/Section 2.pdf",
-    "College/Y3S1/Information Systems Security/PDFs/Sections/Section 1.pdf",
-    "College/Y3S1/Software Engineering-2/PDFs/Lecture-4---DesignPattern.pdf",
-    "College/Y3S1/Software Engineering-2/PDFs/Lecture-3--SOLID.pdf",
-    "College/Y3S1/Software Engineering-2/PDFs/Lecture-1---All-Clean-Code.pdf",
-    "College/Y3S1/Software Engineering-2/PDFs/Lecture-5---OCL.pdf",
+    "College/Y3S1/Software Engineering-2/Project/DB Architecture.md",
+    "Untitled.canvas",
     "College/Y3S1/Software Engineering-2/SW-2.md",
-    "College/Y3S1/Software Engineering-2/PDFs/UnitTest.pdf",
-    "College/Y3S1/Software Engineering-2/PDFs/Microservices.pdf",
+    "College/Y3S1/Information Systems Security/ISS.md",
+    "College/Y3S1/Computer Networks-1/CN-1.md",
+    "College/Y3S1/Computer Networks-1/PDF/Lecture-8.pdf",
+    "College/Y3S1/Computer Networks-1/PDF/Lecture-7.pdf",
+    "College/Y3S1/Computer Networks-1/PDF/drive-download-20251129T073658Z-1-001/Lecture-7.pdf",
+    "College/Y3S1/Computer Networks-1/PDF/drive-download-20251129T073658Z-1-001/Lecture-8.pdf",
+    "College/Y3S1/Computer Networks-1/PDF/drive-download-20251129T073658Z-1-001",
+    "College/Y3S1/Computer Networks-1/PDF/drive-download-20251129T073658Z-1-001.zip",
+    "College/Y3S1/Computer Networks-1/PDF/Lecture-6.pdf",
+    "College/Y3S1/Computer Networks-1/PDF/Lecture-4.pdf",
+    "College/Y3S1/Computer Networks-1/PDF/Lecture-5.pdf",
+    "College/Y3S1/Computer Networks-1/PDF/Lecture-4&6.pdf",
+    "College/Y3S1/Software Engineering-2/Untitled.canvas",
+    "College/Y3S1/Database-2/DB-2.md",
+    "College/Y3S1/Y3S1.md",
     "DEPI Project/Pages and Components.canvas",
     "College/Y3S1/Management Information Systems/MIS.md",
     "College/Y2S1/PL-2/PL-2 Lecture 1.md",
@@ -216,7 +221,6 @@
     "2025-10-06.md",
     "Untitled.md",
     "DEPI Project/Media/Pasted image 20250928220118.png",
-    "College/Y3S1/Computer Networks-1/CN-1.md",
     "DEPI Project/Media/9d11b350c966a876af9d178e02f84bf8_MD5.jpeg",
     "DEPI Project/Media/6d810cb9a546855fd1d349bb07aab1c5_MD5.jpeg",
     "DEPI Project/Media/ff3841b67109bdc31d68ff99b48d0f7a_MD5.jpeg",
@@ -230,7 +234,6 @@
     "Misc/Maven/application.properties or application.yaml.md",
     "Competitive Programiming/Number Theory/Sieve of Eratosthenes.md",
     "Competitive Programiming/Number Theory/Number theory.md",
-    "Competitive Programiming/Number Theory/Divisibility.md",
     "Competitive Programiming/Number Theory/Animation_Sieve_of_Eratosth.gif",
     "DEPI Project/Media/Pasted image 20250822160309.png",
     "DEPI Project/Media/8b6222c7a23302e2ef03a11f1a30a8cd_MD5.jpeg",

@@ -5,7 +5,7 @@
     "center image",
     "H1 center"
   ],
-  "showViewHeader": false,
+  "showViewHeader": true,
   "nativeMenus": false,
   "showRibbon": true
 }
