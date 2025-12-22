@@ -4,24 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b8bda434292ac209",
+        "id": "fd4d92b9558129d8",
         "type": "tabs",
         "children": [
           {
-            "id": "882e90dc2cbc0187",
+            "id": "3d7270e9c992e09d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 264.13470896886867,
-                  "y": -442.59109830017417,
-                  "zoom": -1.1102230246251565e-16
-                }
+                "file": "College/Y3S1/Management Information Systems/PDFs/Laudon_MIS13_ch01.pdf",
+                "page": 37,
+                "left": -72,
+                "top": 1,
+                "zoom": 1.3625
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "Laudon_MIS13_ch01"
             }
           }
         ]
@@ -81,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325
+    "width": 295
   },
   "right": {
     "id": "b0a3a1538c305c83",
@@ -174,36 +173,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "882e90dc2cbc0187",
+  "active": "3d7270e9c992e09d",
   "lastOpenFiles": [
-    "College/Y3S1/Software Engineering-2/Project/DB Architecture.md",
-    "Untitled.canvas",
+    "College/Y3S1/Management Information Systems/PDFs/Laudon_MIS13_ch05.pdf",
+    "College/Y3S1/Management Information Systems/PDFs/Laudon_MIS13_ch02.pdf",
+    "College/Y3S1/Management Information Systems/PDFs/Laudon_MIS13_ch01.pdf",
+    "College/Y3S1/Management Information Systems/PPT/mis_ch03.pptx",
+    "College/Y3S1/Management Information Systems/PPT/Laudon_MIS13_ch06.ppt",
+    "College/Y3S1/Management Information Systems/PPT",
+    "College/Y3S1/Information Systems Security/PDFs/Lectures/CHAPTER 1 Accountability and Access Control .pdf",
+    "College/Y3S1/Software Engineering-2/PDFs/Lecture-6---AOP.pdf",
+    "College/Y3S1/Software Engineering-2/PDFs/Lecture-5---OCL.pdf",
+    "College/Y3S1/Software Engineering-2/PDFs/Lecture-4---DesignPattern.pdf",
+    "College/Y3S1/Software Engineering-2/PDFs/Lecture-3--SOLID.pdf",
     "College/Y3S1/Software Engineering-2/SW-2.md",
+    "Untitled.canvas",
+    "College/Y3S1/Software Engineering-2/Project/DB Architecture.md",
     "College/Y3S1/Information Systems Security/ISS.md",
     "College/Y3S1/Computer Networks-1/CN-1.md",
-    "College/Y3S1/Computer Networks-1/PDF/Lecture-8.pdf",
-    "College/Y3S1/Computer Networks-1/PDF/Lecture-7.pdf",
-    "College/Y3S1/Computer Networks-1/PDF/drive-download-20251129T073658Z-1-001/Lecture-7.pdf",
-    "College/Y3S1/Computer Networks-1/PDF/drive-download-20251129T073658Z-1-001/Lecture-8.pdf",
-    "College/Y3S1/Computer Networks-1/PDF/drive-download-20251129T073658Z-1-001",
-    "College/Y3S1/Computer Networks-1/PDF/drive-download-20251129T073658Z-1-001.zip",
-    "College/Y3S1/Computer Networks-1/PDF/Lecture-6.pdf",
-    "College/Y3S1/Computer Networks-1/PDF/Lecture-4.pdf",
-    "College/Y3S1/Computer Networks-1/PDF/Lecture-5.pdf",
-    "College/Y3S1/Computer Networks-1/PDF/Lecture-4&6.pdf",
     "College/Y3S1/Software Engineering-2/Untitled.canvas",
     "College/Y3S1/Database-2/DB-2.md",
     "College/Y3S1/Y3S1.md",
