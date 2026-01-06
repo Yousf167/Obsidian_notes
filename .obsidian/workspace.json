@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fd4d92b9558129d8",
+        "id": "108263b8f4ce21f0",
         "type": "tabs",
         "children": [
           {
-            "id": "3d7270e9c992e09d",
+            "id": "301d2cca539f15cf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "College/Y3S1/Management Information Systems/PDFs/Laudon_MIS13_ch01.pdf",
-                "page": 37,
-                "left": -72,
-                "top": 1,
-                "zoom": 1.3625
+                "file": "College/Y3S1/Information Systems Security/ISS.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Laudon_MIS13_ch01"
+              "icon": "lucide-file",
+              "title": "ISS"
             }
           }
         ]
@@ -80,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295
+    "width": 267
   },
   "right": {
     "id": "b0a3a1538c305c83",
@@ -144,27 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Y2S2/OS-1/Books/Operating-System-Concepts-10th-2018.pdf",
+                "file": "College/Y3S1/Management Information Systems/PDFs/Laudon_MIS13_ch05.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Operating-System-Concepts-10th-2018"
-            }
-          },
-          {
-            "id": "27e714e1b1a1351c",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
+              "title": "Outline of Laudon_MIS13_ch05"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,27 +174,32 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3d7270e9c992e09d",
+  "active": "301d2cca539f15cf",
   "lastOpenFiles": [
-    "College/Y3S1/Management Information Systems/PDFs/Laudon_MIS13_ch05.pdf",
-    "College/Y3S1/Management Information Systems/PDFs/Laudon_MIS13_ch02.pdf",
-    "College/Y3S1/Management Information Systems/PDFs/Laudon_MIS13_ch01.pdf",
-    "College/Y3S1/Management Information Systems/PPT/mis_ch03.pptx",
-    "College/Y3S1/Management Information Systems/PPT/Laudon_MIS13_ch06.ppt",
-    "College/Y3S1/Management Information Systems/PPT",
+    "College/Y3S1/Information Systems Security/PDFs/Lectures/CHAPTER-3-Security-Management-Concepts-and-Principles.pdf",
     "College/Y3S1/Information Systems Security/PDFs/Lectures/CHAPTER 1 Accountability and Access Control .pdf",
-    "College/Y3S1/Software Engineering-2/PDFs/Lecture-6---AOP.pdf",
-    "College/Y3S1/Software Engineering-2/PDFs/Lecture-5---OCL.pdf",
-    "College/Y3S1/Software Engineering-2/PDFs/Lecture-4---DesignPattern.pdf",
-    "College/Y3S1/Software Engineering-2/PDFs/Lecture-3--SOLID.pdf",
+    "College/Y3S1/Information Systems Security/ISS.md",
+    "College/Y3S1/Information Systems Security/PDFs/Lectures/ISS.pdf",
+    "College/Y3S1/Information Systems Security/PDFs/Lectures/CHAPTER-4-Data-and-Application-Security-Issues-Part-2.pdf",
+    "College/Y3S1/Information Systems Security/PDFs/Lectures/CHAPTER-4-Data-and-Application-Security-Issues-Part-1.pdf",
+    "College/Y3S1/Information Systems Security/PDFs/Lectures/CHAPTER-2-Attacks-and-Monitoring.pdf",
+    "College/Y3S1/Information Systems Security/PDFs/ISS.pdf",
+    "College/Y3S1/Database-2/DB-2.md",
+    "College/Y3S1/Database-2/PDFs/6.-Relational-Algebra-II.pdf",
+    "College/Y3S1/Database-2/PDFs/5-Relational-Algebra-I.pdf",
+    "College/Y3S1/Database-2/PDFs/4-Indexing-Structures-for-Files.pdf",
+    "b7014ee220833a6c0d5db3c2e18854a7_MD5.jpg",
+    "Pasted image 20260103155424.png",
+    "College/Y3S1/Y3S1.md",
+    "College/College.md",
+    "College/Y2S2/Y2S2.md",
+    "College/Y2S2/Prof Ethics/PE.md",
+    "College/Y3S1/Data Storage and Retrieval (IR)/DSR.md",
+    "College/Y3S1/Computer Networks-1/CN-1.md",
     "College/Y3S1/Software Engineering-2/SW-2.md",
     "Untitled.canvas",
     "College/Y3S1/Software Engineering-2/Project/DB Architecture.md",
-    "College/Y3S1/Information Systems Security/ISS.md",
-    "College/Y3S1/Computer Networks-1/CN-1.md",
     "College/Y3S1/Software Engineering-2/Untitled.canvas",
-    "College/Y3S1/Database-2/DB-2.md",
-    "College/Y3S1/Y3S1.md",
     "DEPI Project/Pages and Components.canvas",
     "College/Y3S1/Management Information Systems/MIS.md",
     "College/Y2S1/PL-2/PL-2 Lecture 1.md",
@@ -215,8 +208,6 @@
     "DEPI Project/Pages and Components.png",
     "DEPI Project/Architecture.canvas",
     "DEPI Project/Features.md",
-    "College/College.md",
-    "College/Y3S1/Data Storage and Retrieval (IR)/DSR.md",
     "DEPI Project/React Project.png",
     "2025-10-06.md",
     "Untitled.md",
@@ -232,12 +223,8 @@
     "Misc/Maven/Most useful Spring and SpringBoot annotations.md",
     "Misc/Maven/Maven 101.md",
     "Misc/Maven/application.properties or application.yaml.md",
-    "Competitive Programiming/Number Theory/Sieve of Eratosthenes.md",
-    "Competitive Programiming/Number Theory/Number theory.md",
     "Competitive Programiming/Number Theory/Animation_Sieve_of_Eratosth.gif",
     "DEPI Project/Media/Pasted image 20250822160309.png",
-    "DEPI Project/Media/8b6222c7a23302e2ef03a11f1a30a8cd_MD5.jpeg",
-    "Pasted image 20250829155627.png",
     "Untitled 1.canvas"
   ]
 }

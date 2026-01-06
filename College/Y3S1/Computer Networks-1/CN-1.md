@@ -6,3 +6,6 @@ Book: http://e-books.helwan.edu.eg/storage/83052/index.html#/reader
 4. [[Lecture-6.pdf]]
 5. [[Lecture-7.pdf]]
 6. [[Lecture-8.pdf]]
+7. [[Lecture-9.pdf]]
+
+

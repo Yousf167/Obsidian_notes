@@ -1,11 +1,17 @@
 {
   "cssTheme": "Encore",
-  "accentColor": "#5e3cd7",
+  "accentColor": "#d2c38e",
   "enabledCssSnippets": [
     "center image",
-    "H1 center"
+    "H1 center",
+    "pdf resize",
+    "center table"
   ],
   "showViewHeader": false,
   "nativeMenus": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "interfaceFontFamily": "FiraCode Nerd Font",
+  "textFontFamily": "FiraCode Nerd Font",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "theme": "obsidian"
 }
