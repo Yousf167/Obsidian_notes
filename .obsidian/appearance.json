@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Encore",
-  "accentColor": "#d2c38e",
+  "cssTheme": "Catppuccin",
+  "accentColor": "#a161b8",
   "enabledCssSnippets": [
     "center image",
     "H1 center",
@@ -10,8 +10,8 @@
   "showViewHeader": false,
   "nativeMenus": false,
   "showRibbon": true,
-  "interfaceFontFamily": "FiraCode Nerd Font",
-  "textFontFamily": "FiraCode Nerd Font",
+  "interfaceFontFamily": "Lato",
+  "textFontFamily": "Lato",
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "theme": "obsidian"
 }

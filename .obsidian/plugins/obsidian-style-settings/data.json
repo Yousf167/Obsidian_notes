@@ -16,5 +16,6 @@
   "encore-settings@@encore-fancy-headers": true,
   "encore-settings@@theme-light": "encore-theme-light",
   "encore-settings@@encore-custom-bold@@light": "#A99C69",
-  "encore-settings@@encore-custom-bold@@dark": "#F0E6C1"
+  "encore-settings@@encore-custom-bold@@dark": "#F0E6C1",
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-mauve"
 }
